@@ -1,0 +1,64 @@
+
+
+
+### Disk AAAA
+
+# Make sure no changes happen to disk
+blockdev --setro /dev/sdb
+blockdev --setro /dev/sdb1
+blockdev --setro /dev/sdb2
+
+# Make copy
+dd bs=256k if=/dev/sdb conv=noerror,sync of=disk_AAAA_backup.img
+
+dd bs=256k if=/dev/sdb conv=noerror,sync | sha256sum  ==> 4f99b5e35edc1ca4434dbce45af42140e081bad39c5667c0cc92f03e4a74d8ba
+dd bs=256k if=disk_AAAA_backup.img conv=noerror,sync | sha256sum ==> 4f99b5e35edc1ca4434dbce45af42140e081bad39c5667c0cc92f03e4a74d8ba
+
+
+
+
+### Disk BBBB
+
+# Make sure no changes happen to disk
+blockdev --setro /dev/sdb
+blockdev --setro /dev/sdb1
+blockdev --setro /dev/sdb2
+
+# Make copy
+dd bs=256k if=/dev/sdb conv=noerror,sync of=disk_BBBB_backup.img
+
+dd bs=256k if=/dev/sdb conv=noerror,sync | sha256sum  ==> 363b94da7c9a5cf7726198127722c79dc6d34f83569b09ae12729c1f1815c9fc
+dd bs=256k if=disk_BBBB_backup.img conv=noerror,sync | sha256sum ==> 363b94da7c9a5cf7726198127722c79dc6d34f83569b09ae12729c1f1815c9fc
+
+
+
+
+### DISK CCCC
+
+# Make sure no changes happen to disk
+blockdev --setro /dev/sdb
+blockdev --setro /dev/sdb1
+blockdev --setro /dev/sdb2
+
+# Make copy
+dd bs=256k if=/dev/sdb conv=noerror,sync of=disk_CCCC_backup.img
+
+dd bs=256k if=/dev/sdb conv=noerror,sync | sha256sum  ==> 97e2844aabf09470364b0c248f90a2e80275810acebe7906fe3fa93e9b837bfb
+dd bs=256k if=disk_CCCC_backup.img conv=noerror,sync | sha256sum ==> 97e2844aabf09470364b0c248f90a2e80275810acebe7906fe3fa93e9b837bfb
+
+
+
+
+### DISK DDDD
+
+# Make sure no changes happen to disk
+blockdev --setro /dev/sdb
+blockdev --setro /dev/sdb1
+blockdev --setro /dev/sdb2
+
+# Make copy
+dd bs=256k if=/dev/sdb conv=noerror,sync of=disk_DDDD_backup.img
+
+dd bs=256k if=/dev/sdb conv=noerror,sync | sha256sum  ==> 5c58472573f865540f1d93ae6ea16a3cf3a172a4ce7f59c2a5144bc096b10479
+dd bs=256k if=disk_DDDD_backup.img conv=noerror,sync | sha256sum ==> 5c58472573f865540f1d93ae6ea16a3cf3a172a4ce7f59c2a5144bc096b10479
+
