@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v3" manifestVersion="1.0" description="Fix for KB2621440" displayName="default" company="Microsoft Corporation" copyright="Microsoft Corporation" supportInformation="http://support.microsoft.com/?kbid=2621440" creationTimeStamp="2012-02-17T10:09:55Z" lastUpdateTimeStamp="2012-02-17T10:09:55Z">
+	<assemblyIdentity name="Package_5_for_KB2621440" version="6.1.1.5" language="neutral" processorArchitecture="x86" publicKeyToken="31bf3856ad364e35"/>
+	<package identifier="KB2621440" releaseType="Security Update" restart="possible" psfName="Windows6.1-KB2621440-x86.psf">
+		<parent buildCompare="EQ" serviceCompare="EQ" integrate="separate" disposition="detect">
+			<assemblyIdentity name="Microsoft-Windows-Foundation-Package" version="6.1.7600.16385" processorArchitecture="x86" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS"/>
+		</parent>
+		<installerAssembly name="Microsoft-Windows-ServicingStack" version="6.0.0.0" language="neutral" processorArchitecture="x86" versionScope="nonSxS" publicKeyToken="31bf3856ad364e35"/>
+		<update name="2621440-17_neutral_LDR">
+			<applicable disposition="staged">
+				<updateComponent elevate="revision">
+					<assemblyIdentity name="Microsoft-Windows-TerminalServices-TransportDrivers" version="6.1.7600.21151" processorArchitecture="x86" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS"/>
+				</updateComponent>
+			</applicable>
+			<component>
+				<assemblyIdentity name="4fa32f37769aa050c72d8a9398eadb50" version="6.1.7600.21151" processorArchitecture="x86" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS"/>
+			</component>
+		</update>
+		<update name="2621440-18_neutral_GDR">
+			<applicable disposition="staged">
+				<updateComponent elevate="revision">
+					<assemblyIdentity name="Microsoft-Windows-TerminalServices-TransportDrivers" version="6.1.7600.16963" processorArchitecture="x86" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS"/>
+				</updateComponent>
+			</applicable>
+			<component>
+				<assemblyIdentity name="b5f4a242c24208de5e98d74e018b8027" version="6.1.7600.16963" processorArchitecture="x86" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS"/>
+			</component>
+		</update>
+		<update name="2621440-19_neutral_LDR">
+			<applicable disposition="staged">
+				<updateComponent elevate="revision">
+					<assemblyIdentity name="Microsoft-Windows-TerminalServices-RDP-DisplayDriver" version="6.1.7600.21151" processorArchitecture="x86" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS"/>
+					<assemblyIdentity name="Microsoft-Windows-TerminalServices-RDP-WinStationDriver" version="6.1.7600.21151" processorArchitecture="x86" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS"/>
+				</updateComponent>
+			</applicable>
+			<component>
+				<assemblyIdentity name="bdbbfe4bdbf04bf6bbaccefa62aa7861" version="6.1.7600.21151" processorArchitecture="x86" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS"/>
+			</component>
+		</update>
+		<update name="2621440-20_neutral_GDR">
+			<applicable disposition="staged">
+				<updateComponent elevate="revision">
+					<assemblyIdentity name="Microsoft-Windows-TerminalServices-RDP-WinStationDriver" version="6.1.7600.16963" processorArchitecture="x86" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS"/>
+				</updateComponent>
+			</applicable>
+			<component>
+				<assemblyIdentity name="b1de5c464f3c6f234683e8128cab0e87" version="6.1.7600.16963" processorArchitecture="x86" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS"/>
+			</component>
+		</update>
+		<update name="2621440-21_neutral_LDR">

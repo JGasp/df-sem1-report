@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<?Copyright (c) Microsoft Corporation. All rights reserved.?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v3" copyright="Copyright (c) Microsoft Corporation. All Rights Reserved." manifestVersion="1.0">
+  <assemblyIdentity language="neutral" name="Server-Help-Package.ClientHomePremium" processorArchitecture="x86" publicKeyToken="31bf3856ad364e35" version="6.1.7600.16385"/>
+  <package identifier="Server-Help-Package.ClientHomePremium" releaseType="Feature Pack">
+    <parent integrate="subsume">
+      <assemblyIdentity language="neutral" name="Microsoft-Windows-Foundation-Package" processorArchitecture="x86" publicKeyToken="31bf3856ad364e35" version="6.1.7600.16385"/>
+    </parent>
+    <update description="Microsoft Windows HomePremium Help" displayName="Windows HomePremium User Assistance" name="Server-Help-Package.ClientHomePremium-Update">
+      <component>
+        <assemblyIdentity language="neutral" name="Server-Help-Deployment.ClientHomePremium.CHM" processorArchitecture="x86" publicKeyToken="31bf3856ad364e35" version="6.1.7600.16385" versionScope="nonSxS"/>
+      </component>
+      <component>
+        <assemblyIdentity language="neutral" name="Server-Help-Deployment.ClientHomePremium.H1S" processorArchitecture="x86" publicKeyToken="31bf3856ad364e35" version="6.1.7600.16385" versionScope="nonSxS"/>
+      </component>
+    </update>
+  </package>
+</assembly>

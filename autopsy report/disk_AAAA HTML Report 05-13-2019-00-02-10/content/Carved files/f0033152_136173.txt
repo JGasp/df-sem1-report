@@ -1,0 +1,119 @@
+oad due to regulation.
+2014-02-13	11:15:15:461	 836	af0	DnldMgr	Regulation: {9482F4B4-E343-43B6-B170-9A65BC822C77} - Update 1F0D3423-3869-4ED8-B1B3-6FA715D83EBB is "PerUpdate" regulated and can NOT download. Sequence 7827 vs AcceptRate 0.
+2014-02-13	11:15:15:476	 836	af0	DnldMgr	***********  DnldMgr: New download job [UpdateId = {59A96103-2FFD-451C-99DE-F99475B270BA}.100]  ***********
+2014-02-13	11:15:15:476	 836	af0	DnldMgr	Regulation: {9482F4B4-E343-43B6-B170-9A65BC822C77} - Update 59A96103-2FFD-451C-99DE-F99475B270BA is "Priority" regulated and can NOT download. Sequence 4378 vs AcceptRate 0.
+2014-02-13	11:15:15:476	 836	af0	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-02-13	11:15:15:476	 836	af0	DnldMgr	***********  DnldMgr: New download job [UpdateId = {5B214E9E-EC99-458D-8B44-2886D8C36C82}.100]  ***********
+2014-02-13	11:15:15:476	 836	af0	DnldMgr	Regulation: {9482F4B4-E343-43B6-B170-9A65BC822C77} - Update 5B214E9E-EC99-458D-8B44-2886D8C36C82 is "Priority" regulated and can NOT download. Sequence 4378 vs AcceptRate 0.
+2014-02-13	11:15:15:476	 836	af0	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-02-13	11:15:15:476	 836	af0	DnldMgr	Regulation: {9482F4B4-E343-43B6-B170-9A65BC822C77} - Update 59A96103-2FFD-451C-99DE-F99475B270BA is "Priority" regulated and can NOT download. Sequence 4378 vs AcceptRate 0.
+2014-02-13	11:15:15:476	 836	af0	DnldMgr	Regulation: {9482F4B4-E343-43B6-B170-9A65BC822C77} - Update 5B214E9E-EC99-458D-8B44-2886D8C36C82 is "Priority" regulated and can NOT download. Sequence 4378 vs AcceptRate 0.
+2014-02-13	11:15:15:476	 836	af0	DnldMgr	***********  DnldMgr: New download job [UpdateId = {1F0B5AA2-5F5D-456E-B2BD-EA0146A22206}.103]  ***********
+2014-02-13	11:15:15:476	 836	af0	DnldMgr	Regulation: {9482F4B4-E343-43B6-B170-9A65BC822C77} - Update 1F0B5AA2-5F5D-456E-B2BD-EA0146A22206 is "PerUpdate" regulated and can NOT download. Sequence 7827 vs AcceptRate 0.
+2014-02-13	11:15:15:476	 836	af0	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-02-13	11:15:15:476	 836	af0	DnldMgr	Regulation: {9482F4B4-E343-43B6-B170-9A65BC822C77} - Update 1F0B5AA2-5F5D-456E-B2BD-EA0146A22206 is "PerUpdate" regulated and can NOT download. Sequence 7827 vs AcceptRate 0.
+2014-02-13	11:15:15:507	 836	af8	DnldMgr	BITS job {ABE75EA6-20CC-4AC7-9CAB-F601021C8075} completed successfully
+2014-02-13	11:15:15:991	 836	af8	Misc	Validating signature for C:\Windows\SoftwareDistribution\Download\9f8e7b36bbf1578cf64a417132395103\Windows6.1-KB2533552-x86-EXPRESS.cab:
+2014-02-13	11:15:16:007	 836	af8	Misc	 Microsoft signed: Yes
+2014-02-13	11:15:16:007	 836	af8	DnldMgr	  Download job bytes total = 4100468, bytes transferred = 39907
+2014-02-13	11:15:16:022	 836	af8	DnldMgr	***********  DnldMgr: New download job [UpdateId = {603B5B7B-AD2E-4E20-A8D7-5BF0A4383E41}.100]  ***********
+2014-02-13	11:15:16:022	 836	af8	DnldMgr	  * Queueing update for download handler request generation.
+2014-02-13	11:15:16:022	 836	af8	DnldMgr	***********  DnldMgr: New download job [UpdateId = {1F0D3423-3869-4ED8-B1B3-6FA715D83EBB}.102]  ***********
+2014-02-13	11:15:16:022	 836	af8	DnldMgr	Regulation: {9482F4B4-E343-43B6-B170-9A65BC822C77} - Update 1F0D3423-3869-4ED8-B1B3-6FA715D83EBB is "PerUpdate" regulated and can NOT download. Sequence 7827 vs AcceptRate 0.
+2014-02-13	11:15:16:022	 836	af8	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-02-13	11:15:16:022	 836	af8	DnldMgr	Regulation: {9482F4B4-E343-43B6-B170-9A65BC822C77} - Update 1F0D3423-3869-4ED8-B1B3-6FA715D83EBB is "PerUpdate" regulated and can NOT download. Sequence 7827 vs AcceptRate 0.
+2014-02-13	11:15:16:038	 836	af8	DnldMgr	***********  DnldMgr: New download job [UpdateId = {59A96103-2FFD-451C-99DE-F99475B270BA}.100]  ***********
+2014-02-13	11:15:16:038	 836	af8	DnldMgr	Regulation: {9482F4B4-E343-43B6-B170-9A65BC822C77} - Update 59A96103-2FFD-451C-99DE-F99475B270BA is "Priority" regulated and can NOT download. Sequence 4378 vs AcceptRate 0.
+2014-02-13	11:15:16:038	 836	af8	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-02-13	11:15:16:038	 836	af8	DnldMgr	***********  DnldMgr: New download job [UpdateId = {5B214E9E-EC99-458D-8B44-2886D8C36C82}.100]  ***********
+2014-02-13	11:15:16:038	 836	af8	DnldMgr	Regulation: {9482F4B4-E343-43B6-B170-9A65BC822C77} - Update 5B214E9E-EC99-458D-8B44-2886D8C36C82 is "Priority" regulated and can NOT download. Sequence 4378 vs AcceptRate 0.
+2014-02-13	11:15:16:038	 836	af8	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-02-13	11:15:16:038	 836	af8	DnldMgr	Regulation: {9482F4B4-E343-43B6-B170-9A65BC822C77} - Update 59A96103-2FFD-451C-99DE-F99475B270BA is "Priority" regulated and can NOT download. Sequence 4378 vs AcceptRate 0.
+2014-02-13	11:15:16:038	 836	af8	DnldMgr	Regulation: {9482F4B4-E343-43B6-B170-9A65BC822C77} - Update 5B214E9E-EC99-458D-8B44-2886D8C36C82 is "Priority" regulated and can NOT download. Sequence 4378 vs AcceptRate 0.
+2014-02-13	11:15:16:053	 836	af8	DnldMgr	***********  DnldMgr: New download job [UpdateId = {1F0B5AA2-5F5D-456E-B2BD-EA0146A22206}.103]  ***********
+2014-02-13	11:15:16:053	 836	af8	DnldMgr	Regulation: {9482F4B4-E343-43B6-B170-9A65BC822C77} - Update 1F0B5AA2-5F5D-456E-B2BD-EA0146A22206 is "PerUpdate" regulated and can NOT download. Sequence 7827 vs AcceptRate 0.
+2014-02-13	11:15:16:053	 836	af8	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-02-13	11:15:16:053	 836	af8	DnldMgr	Regulation: {9482F4B4-E343-43B6-B170-9A65BC822C77} - Update 1F0B5AA2-5F5D-456E-B2BD-EA0146A22206 is "PerUpdate" regulated and can NOT download. Sequence 7827 vs AcceptRate 0.
+2014-02-13	11:15:16:053	 836	af8	DnldMgr	Generating download request for update {603B5B7B-AD2E-4E20-A8D7-5BF0A4383E41}.100
+2014-02-13	11:15:16:584	 836	af8	Handler	Generating request for CBS update 603B5B7B-AD2E-4E20-A8D7-5BF0A4383E41 in sandbox C:\Windows\SoftwareDistribution\Download\9f8e7b36bbf1578cf64a417132395103
+2014-02-13	11:15:16:584	 836	af8	Handler	Selected payload type is ptExpress
+2014-02-13	11:15:16:631	 836	af8	Handler	UH: DpxRestoreJob returned 0x80070002
+2014-02-13	11:15:16:631	 836	af8	Handler	Detected download state is dsHavePackage
+2014-02-13	11:15:17:769	 836	6d8	Shutdwn	user approved update at shutdown
+2014-02-13	11:15:17:769	 836	6d8	AU	AU found 1 updates to install at shutdown.
+2014-02-13	11:15:17:769	 836	6d8	AU	#############
+2014-02-13	11:15:17:769	 836	6d8	AU	## START ##  AU: Install updates
+2014-02-13	11:15:17:769	 836	6d8	AU	#########
+2014-02-13	11:15:17:769	 836	6d8	AU	  # Initiating install at shutdown
+2014-02-13	11:15:17:769	 836	6d8	AU	  # Approved updates = 1
+2014-02-13	11:15:17:769	 836	6d8	AU	<<## SUBMITTED ## AU: Install updates / installing updates [CallId = {C486B4A6-1870-4489-8E53-9E57382D8A99}]
+2014-02-13	11:15:17:769	 836	6d8	Shutdwn	InstallAtShutdown starts.
+2014-02-13	11:15:17:769	 836	658	Agent	*************
+2014-02-13	11:15:17:769	 836	658	Agent	** START **  Agent: Installing updates [CallerId = AutomaticUpdates]
+2014-02-13	11:15:17:769	 836	658	Agent	*********
+2014-02-13	11:15:17:769	 836	658	Agent	  * Updates to install = 1
+2014-02-13	11:15:17:769	 836	658	Agent	  *   Title = Update for Windows 7 (KB2387530)
+2014-02-13	11:15:17:769	 836	658	Agent	  *   UpdateId = {7BEB6709-0209-4C10-BCE7-19AD80314CFD}.100
+2014-02-13	11:15:17:769	 836	658	Agent	  *     Bundles 1 updates:
+2014-02-13	11:15:17:769	 836	658	Agent	  *       {3447CF0A-88AC-417D-B4DF-970B481F4EC6}.100
+2014-02-13	11:15:17:785	 836	958	Shutdwn	InstallAtShutdown got install progress.
+2014-02-13	11:15:24:774	 836	3c0	Handler	CBS called Error with 0x800f0816, 
+2014-02-13	11:15:24:774	 836	af8	Handler	Async stage operation completed with 0x800f0816
+2014-02-13	11:15:25:117	 836	6d8	AU	WARNING: AU found no suitable session to launch client in
+2014-02-13	11:15:26:162	 836	af8	Handler	DPX indicated more ranges to download.
+2014-02-13	11:15:26:162	 836	af8	Handler	Adding windows6.1-kb2533552-x86.psf (ranges) to request list.
+2014-02-13	11:15:26:162	 836	af8	Handler	Request generation for CBS update complete with hr=0x0 and pfResetSandbox=0 
+2014-02-13	11:15:26:178	 836	af8	DnldMgr	***********  DnldMgr: New download job [UpdateId = {603B5B7B-AD2E-4E20-A8D7-5BF0A4383E41}.100]  ***********
+2014-02-13	11:15:26:708	 836	af8	DnldMgr	  * BITS job initialized, JobId = {8B2A2AB5-ACA3-4F7E-A021-B39B9EC1F54F}
+2014-02-13	11:15:26:895	 836	af8	DnldMgr	  * Downloading from http://au.download.windowsupdate.com/msdownload/update/software/crup/2011/05/windows6.1-kb2533552-x86_1f5446cc39076c4e6d2d90ac62848a0cdf1134f3.psf to C:\Windows\SoftwareDistribution\Download\9f8e7b36bbf1578cf64a417132395103\1f5446cc39076c4e6d2d90ac62848a0cdf1134f3-1 (14 subranges).
+2014-02-13	11:15:27:067	 836	af8	DnldMgr	***********  DnldMgr: New download job [UpdateId = {1F0D3423-3869-4ED8-B1B3-6FA715D83EBB}.102]  ***********
+2014-02-13	11:15:27:067	 836	af8	DnldMgr	Regulation: {9482F4B4-E343-43B6-B170-9A65BC822C77} - Update 1F0D3423-3869-4ED8-B1B3-6FA715D83EBB is "PerUpdate" regulated and can NOT download. Sequence 7827 vs AcceptRate 0.
+2014-02-13	11:15:27:067	 836	af8	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-02-13	11:15:27:067	 836	af8	DnldMgr	Regulation: {9482F4B4-E343-43B6-B170-9A65BC822C77} - Update 1F0D3423-3869-4ED8-B1B3-6FA715D83EBB is "PerUpdate" regulated and can NOT download. Sequence 7827 vs AcceptRate 0.
+2014-02-13	11:15:27:098	 836	af8	DnldMgr	***********  DnldMgr: New download job [UpdateId = {59A96103-2FFD-451C-99DE-F99475B270BA}.100]  ***********
+2014-02-13	11:15:27:098	 836	af8	DnldMgr	Regulation: {9482F4B4-E343-43B6-B170-9A65BC822C77} - Update 59A96103-2FFD-451C-99DE-F99475B270BA is "Priority" regulated and can NOT download. Sequence 4378 vs AcceptRate 0.
+2014-02-13	11:15:27:098	 836	af8	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-02-13	11:15:27:098	 836	af8	DnldMgr	***********  DnldMgr: New download job [UpdateId = {5B214E9E-EC99-458D-8B44-2886D8C36C82}.100]  ***********
+2014-02-13	11:15:27:098	 836	af8	DnldMgr	Regulation: {9482F4B4-E343-43B6-B170-9A65BC822C77} - Update 5B214E9E-EC99-458D-8B44-2886D8C36C82 is "Priority" regulated and can NOT download. Sequence 4378 vs AcceptRate 0.
+2014-02-13	11:15:27:098	 836	af8	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-02-13	11:15:27:098	 836	af8	DnldMgr	Regulation: {9482F4B4-E343-43B6-B170-9A65BC822C77} - Update 59A96103-2FFD-451C-99DE-F99475B270BA is "Priority" regulated and can NOT download. Sequence 4378 vs AcceptRate 0.
+2014-02-13	11:15:27:098	 836	af8	DnldMgr	Regulation: {9482F4B4-E343-43B6-B170-9A65BC822C77} - Update 5B214E9E-EC99-458D-8B44-2886D8C36C82 is "Priority" regulated and can NOT download. Sequence 4378 vs AcceptRate 0.
+2014-02-13	11:15:27:098	 836	af8	DnldMgr	***********  DnldMgr: New download job [UpdateId = {1F0B5AA2-5F5D-456E-B2BD-EA0146A22206}.103]  ***********
+2014-02-13	11:15:27:098	 836	af8	DnldMgr	Regulation: {9482F4B4-E343-43B6-B170-9A65BC822C77} - Update 1F0B5AA2-5F5D-456E-B2BD-EA0146A22206 is "PerUpdate" regulated and can NOT download. Sequence 7827 vs AcceptRate 0.
+2014-02-13	11:15:27:098	 836	af8	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-02-13	11:15:27:098	 836	af8	DnldMgr	Regulation: {9482F4B4-E343-43B6-B170-9A65BC822C77} - Update 1F0B5AA2-5F5D-456E-B2BD-EA0146A22206 is "PerUpdate" regulated and can NOT download. Sequence 7827 vs AcceptRate 0.
+2014-02-13	11:15:27:114	 836	ad4	DnldMgr	BITS job {AF613FAC-3195-418C-80CA-E0E1270A1C43} completed successfully
+2014-02-13	11:15:27:207	 836	ad4	Misc	Validating signature for C:\Windows\SoftwareDistribution\Download\84edf14b838e10bb558a74cd1117e41c\windows6.1-kb2691442-x86-express.cab:
+2014-02-13	11:15:27:223	 836	ad4	Misc	 Microsoft signed: Yes
+2014-02-13	11:15:27:223	 836	ad4	DnldMgr	  Download job bytes total = 4748325, bytes transferred = 316603
+2014-02-13	11:15:27:223	 836	ad4	DnldMgr	***********  DnldMgr: New download job [UpdateId = {5A2D30D5-D161-41D1-ADE2-386EDCD2A649}.105]  ***********
+2014-02-13	11:15:27:223	 836	ad4	DnldMgr	  * Queueing update for download handler request generation.
+2014-02-13	11:15:27:223	 836	ad4	DnldMgr	***********  DnldMgr: New download job [UpdateId = {1F0D3423-3869-4ED8-B1B3-6FA715D83EBB}.102]  ***********
+2014-02-13	11:15:27:223	 836	ad4	DnldMgr	Regulation: {9482F4B4-E343-43B6-B170-9A65BC822C77} - Update 1F0D3423-3869-4ED8-B1B3-6FA715D83EBB is "PerUpdate" regulated and can NOT download. Sequence 7827 vs AcceptRate 0.
+2014-02-13	11:15:27:223	 836	ad4	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-02-13	11:15:27:223	 836	ad4	DnldMgr	Regulation: {9482F4B4-E343-43B6-B170-9A65BC822C77} - Update 1F0D3423-3869-4ED8-B1B3-6FA715D83EBB is "PerUpdate" regulated and can NOT download. Sequence 7827 vs AcceptRate 0.
+2014-02-13	11:15:27:254	 836	ad4	DnldMgr	***********  DnldMgr: New download job [UpdateId = {59A96103-2FFD-451C-99DE-F99475B270BA}.100]  ***********
+2014-02-13	11:15:27:254	 836	ad4	DnldMgr	Regulation: {9482F4B4-E343-43B6-B170-9A65BC822C77} - Update 59A96103-2FFD-451C-99DE-F99475B270BA is "Priority" regulated and can NOT download. Sequence 4378 vs AcceptRate 0.
+2014-02-13	11:15:27:254	 836	ad4	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-02-13	11:15:27:254	 836	ad4	DnldMgr	***********  DnldMgr: New download job [UpdateId = {5B214E9E-EC99-458D-8B44-2886D8C36C82}.100]  ***********
+2014-02-13	11:15:27:254	 836	ad4	DnldMgr	Regulation: {9482F4B4-E343-43B6-B170-9A65BC822C77} - Update 5B214E9E-EC99-458D-8B44-2886D8C36C82 is "Priority" regulated and can NOT download. Sequence 4378 vs AcceptRate 0.
+2014-02-13	11:15:27:254	 836	ad4	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-02-13	11:15:27:254	 836	ad4	DnldMgr	Regulation: {9482F4B4-E343-43B6-B170-9A65BC822C77} - Update 59A96103-2FFD-451C-99DE-F99475B270BA is "Priority" regulated and can NOT download. Sequence 4378 vs AcceptRate 0.
+2014-02-13	11:15:27:254	 836	ad4	DnldMgr	Regulation: {9482F4B4-E343-43B6-B170-9A65BC822C77} - Update 5B214E9E-EC99-458D-8B44-2886D8C36C82 is "Priority" regulated and can NOT download. Sequence 4378 vs AcceptRate 0.
+2014-02-13	11:15:27:254	 836	ad4	DnldMgr	***********  DnldMgr: New download job [UpdateId = {1F0B5AA2-5F5D-456E-B2BD-EA0146A22206}.103]  ***********
+2014-02-13	11:15:27:254	 836	ad4	DnldMgr	Regulation: {9482F4B4-E343-43B6-B170-9A65BC822C77} - Update 1F0B5AA2-5F5D-456E-B2BD-EA0146A22206 is "PerUpdate" regulated and can NOT download. Sequence 7827 vs AcceptRate 0.
+2014-02-13	11:15:27:254	 836	ad4	DnldMgr	  * Update is not allowed to download due to regulation.
+2014-02-13	11:15:27:254	 836	ad4	DnldMgr	Regulation: {9482F4B4-E343-43B6-B170-9A65BC822C77} - Update 1F0B5AA2-5F5D-456E-B2BD-EA0146A22206 is "PerUpdate" regulated and can NOT download. Sequence 7827 vs AcceptRate 0.
+2014-02-13	11:15:27:270	 836	ad4	DnldMgr	Generating download request for update {5A2D30D5-D161-41D1-ADE2-386EDCD2A649}.105
+2014-02-13	11:15:27:504	 836	ad4	Handler	Generating request for CBS update 5A2D30D5-D161-41D1-ADE2-386EDCD2A649 in sandbox C:\Windows\SoftwareDistribution\Download\84edf14b838e10bb558a74cd1117e41c
+2014-02-13	11:15:27:504	 836	ad4	Handler	Selected payload type is ptExpress
+2014-02-13	11:15:27:504	 836	ad4	Handler	UH: DpxRestoreJob returned 0x80070002
+2014-02-13	11:15:27:504	 836	ad4	Handler	Detected download state is dsHavePackage
+2014-02-13	11:15:35:179	 836	f80	Handler	CBS called Error with 0x800f0816, 
+2014-02-13	11:15:35:210	 836	ad4	Handler	Async stage operation completed with 0x800f0816
+2014-02-13	11:15:36:333	 836	ad4	Handler	DPX indicated more ranges to download.
+2014-02-13	11:15:36:333	 836	ad4	Handler	Adding windows6.1-kb2691442-x86.psf (ranges) to request list.
+2014-02-13	11:15:36:349	 836	ad4	Handler	Request generation for CBS update complete with hr=0x0 and pfResetSandbox=0 
+2014-02-13	11:15:36:349	 836	ad4	DnldMgr	***********  DnldMgr: New download job [UpdateId = {5A2D30D5-D161-41D1-ADE2-386EDCD2A649}.105]  ***********
+2014-02-13	11:15:36:630	 836	ad4	DnldMgr	  * BITS job initialized, JobId = {90295EA9-B972-4C4F-93D9-5C1AD3A19DA8}
+2014-02-13	11:15:36:770	 836	ad4	DnldMgr	  * Downloading from http://au.down

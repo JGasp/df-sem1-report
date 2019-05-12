@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Session version="1.0" id="30353571_3701785984" client="WindowsUpdateAgent" options="816" currentPhase="1" lastSuccessfulState="Resolved" pendingFollower="false" retry="true">
+    <Tasks>
+        <Phase seq="1">
+            <package id="Package_for_KB2790113~31bf3856ad364e35~x86~~6.1.1.1" name="KB2790113" targetState="Staged" options="12"/>
+        </Phase>
+    </Tasks>
+    <Actions>
+        <Phase seq="1" rebootRequired="false">
+            <Resolve package="Package_6_for_KB2790113~31bf3856ad364e35~x86~~6.1.1.1" update="2790113-13_neutral_LDR"/>
+            <Resolve package="Package_6_for_KB2790113~31bf3856ad364e35~x86~~6.1.1.1" update="2790113-14_neutral_LDR"/>
+            <Resolve package="Package_6_for_KB2790113~31bf3856ad364e35~x86~~6.1.1.1" update="2790113-15_neutral_GDR"/>
+            <Resolve package="Package_7_for_KB2790113~31bf3856ad364e35~x86~~6.1.1.1" update="2790113-16_neutral_LDR"/>
+            <Resolve package="Package_7_for_KB2790113~31bf3856ad364e35~x86~~6.1.1.1" update="2790113-17_neutral_LDR"/>
+            <Resolve package="Package_7_for_KB2790113~31bf3856ad364e35~x86~~6.1.1.1" update="2790113-18_neutral_GDR"/>
+            <Resolve package="Package_2_for_KB2790113~31bf3856ad364e35~x86~~6.1.1.1" update="2790113-3_neutral_LDR"/>
+            <Resolve package="Package_2_for_KB2790113~31bf3856ad364e35~x86~~6.1.1.1" update="2790113-4_neutral_LDR"/>
+            <Resolve package="Package_2_for_KB2790113~31bf3856ad364e35~x86~~6.1.1.1" update="2790113-5_neutral_GDR"/>
+            <Resolve package="Package_3_for_KB2790113~31bf3856ad364e35~x86~~6.1.1.1" update="2790113-6_neutral_LDR"/>
+            <Resolve package="Package_3_for_KB2790113~31bf3856ad364e35~x86~~6.1.1.1" update="2790113-7_neutral_LDR"/>
+            <Resolve package="Package_3_for_KB2790113~31bf3856ad364e35~x86~~6.1.1.1" update="2790113-8_neutral_GDR"/>
+        </Phase>
+    </Actions>
+</Session>

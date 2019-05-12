@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v3" manifestVersion="1.0" copyright="Copyright (c) Microsoft Corporation. All Rights Reserved.">
+  <assemblyIdentity name="Microsoft-Windows-ServicingStack" version="6.1.7601.17592" processorArchitecture="x86" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS"></assemblyIdentity>
+  <dependency discoverable="no" resourceType="Resources">
+    <dependentAssembly dependencyType="prerequisite">
+      <assemblyIdentity name="Microsoft-Windows-ServicingStack.Resources" version="6.1.7601.17592" processorArchitecture="x86" language="*" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS"></assemblyIdentity>
+    </dependentAssembly>
+  </dependency>
+  <file name="mofinstall.dll" sourceName="mofinstall.dll" sourcePath=".\" importPath="$(build.nttree)\">
+    
+  <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#"><dsig:Transforms><dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity"></dsig:Transform></dsig:Transforms><dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256"></dsig:DigestMethod><dsig:DigestValue>rN+Lun5Y5NrQe3cvoBrDhYImCGa88bhY5xoHrr8av+A=</dsig:DigestValue></asmv2:hash></file>
+  <file name="esscli.dll" sourceName="esscli.dll" sourcePath=".\" importPath="$(build.nttree)\">
+    
+  <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#"><dsig:Transforms><dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity"></dsig:Transform></dsig:Transforms><dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256"></dsig:DigestMethod><dsig:DigestValue>D8dQtchPGvvpPoojQQNg9LBo02epr2/y4/YWDaUAXeU=</dsig:DigestValue></asmv2:hash></file>
+  <file name="mofd.dll" sourceName="mofd.dll" sourcePath=".\" importPath="$(build.nttree)\">
+    
+  <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#"><dsig:Transforms><dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity"></dsig:Transform></dsig:Transforms><dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256"></dsig:DigestMethod><dsig:DigestValue>bq3anJv1DrIvWGZKaSOUcYfgcv8fKAkNoTNhvL5z+xk=</dsig:DigestValue></asmv2:hash></file>
+  <file name="repdrvfs.dll" sourceName="repdrvfs.dll" sourcePath=".\" importPath="$(build.nttree)\">
+    
+  <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#"><dsig:Transforms><dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity"></dsig:Transform></dsig:Transforms><dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256"></dsig:DigestMethod><dsig:DigestValue>mXNnisD1Cx8Cs3mx1Kfd8xe3JNZb4/9jX9dR7dHZa1o=</dsig:DigestValue></asmv2:hash></file>
+  <file name="fastprox.dll" sourceName="fastprox.dll" sourcePath=".\" importPath="$(build.nttree)\">
+    
+  <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#"><dsig:Transforms><dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity"></dsig:Transform></dsig:Transforms><dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256"></dsig:DigestMethod><dsig:DigestValue>YbTWacaSd17zYURSkxY+hPrYY2rEnIBHvoBttOQJMpE=</dsig:DigestValue></asmv2:hash></file>
+  <file name="wbemcomn.dll" sourceName="wbemcomn.dll" sourcePath=".\" importPath="$(build.nttree)\">
+    
+  <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#"><dsig:Transforms><dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity"></dsig:Transform></dsig:Transforms><dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256"></dsig:DigestMethod><dsig:DigestValue>zaZg4eiq4HiXgLa5YEsTjmeyvdFASl5MI1SzWHnUMIU=</dsig:DigestValue></asmv2:hash></file>
+  <file name="wbemcore.dll" sourceName="wbemcore.dll" sourcePath=".\" importPath="$(build.nttree)\">
+    
+  <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#"><dsig:Transforms><dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity"></dsig:Transform></dsig:Transforms><dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256"></dsig:DigestMethod><dsig:DigestValue>djJyIenltKUG6lk2zOXSF/5OZasZ5L0NZSulnO/wAPM=</dsig:DigestValue></asmv2:hash></file>
+  <file name="wmiutils.dll" sourceName="wmiutils.dll" sourcePath=".\" importPath="$(build.nttree)\">
+    
+  <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#"><dsig:Transforms><dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity"></dsig:Transform></dsig:Transforms><dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256"></dsig:DigestMethod><dsig:DigestValue>4jUYbDvyZu6exzPSz/NeOmXeA5wZsUJg9AVPNLXorUE=</dsig:DigestValue></asmv2:hash></file>
+  <file name="wbemprox.dll" sourceName="wbemprox.dll" sourcePath=".\" importPath="$(build.nttree)\">
+    
+  <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#"><dsig:Transforms><dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity"></dsig:Transform></dsig:Transforms><dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256"></dsig:DigestMethod><dsig:DigestValue>qwnKy1t903KyeSGl4BIgVSphHOyifvh5YQAfpGf97UU=</dsig:DigestValue></asmv2:hash></file>
+  <file name="xmllite.dll" sourceName="xmllite.dll" sourcePath=".\" importPath="$(build.nttree)\">
+    <signatureInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+      <signatureDescriptor PETrust="true" pageHash="true"></signatureDescriptor>
+    </signatureInfo>
+    
+  <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#"><dsig:Transforms><dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity"></dsig:Transform></dsig:Transforms><dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256"></dsig:DigestMethod><dsig:DigestValue>NKyIX6jJ2YLTqfwTm+sDEyD92K+gb/Xd3ci6TKHwnu8=</dsig:DigestValue></asmv2:hash></file>
+  <file name="wdscore.dll" sourceName="wdscore.dll" sourcePath=".\" importPath="$(build.nttree)\">
+    
+  <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#"><dsig:Transforms><dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity"></dsig:Transform></dsig:Transforms><dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256"></dsig:DigestMethod><dsig:DigestValue>r/oeujLQ7d0mpGHA1zRcDkZAgjkKYmh/JVSgPeDx4nc=</dsig:DigestValue></asmv2:hash></file>
+  <file name="CntrtextInstaller.dll" sourceName="CntrtextInstaller.dll" sourcePath=".\" importPath="$(build.nttree)\">
+    
+  <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#"><dsig:Transforms><dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity"></dsig:Transform></dsig:Transforms><dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256"></dsig:DigestMethod><dsig:DigestValue>Z3huEEdfUxFAhSL1byiL86lkXQveOLRw24jjZSP3sT0=</dsig:DigestValue></asmv2:hash></file>
+  <file name="drvstore.dll" sourceName="drvstore.dll" sourcePath=".\" importPath="$(build.nttree)\">
+    
+  <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#"><dsig:Transforms><dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity"></dsig:Transform></dsig:Transforms><dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256"></dsig:DigestMethod><dsig:DigestValue>82xCLr1UCqAmc0aHKolwIcrGwuEG/TKpt0IcTN+HAic=</dsig:DigestValue></asmv2:hash></file>
+  <file name="dpx.dll" sourceName="dpx.dll" sourcePath=".\" importPath="$(build.nttree)\">
+    
+  <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#"><dsig:Transforms><dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity"></dsig:Transform></dsig:Transforms><dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256"></dsig:DigestMethod><dsig:DigestValue>wUW5m6sqVM6huMWJJr218S3/G3hjE79wvKasLdaYHlI=</dsig:DigestValue></asmv2:hash></file>
+  <file name="msdelta.dll" sourceName="msdelta.dll" sourcePath=".\" importPath="$(build.nttree)\">
+    
+  <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#"><dsig:Transforms><dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity"></dsig:Transform></dsig:Transforms><dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256"></dsig:DigestMethod><dsig:DigestValue>MEifA69Q8v7hlvovR+Tlhe0L4f42Dn/NoraEUmUkwcY=</dsig:DigestValue></asmv2:hash></file>
+  <file name="mspatcha.dll" sourceName="mspatcha.dll" sourcePath=".\" importPath="$(build.nttree)\">
+    
+  <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#"><dsig:Transforms><dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity"></dsig:Transform></dsig:Transforms><dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256"></dsig:DigestMethod><dsig:DigestValue>PzbTCIsPfLDMLDHo+QhSfsVQLw0xU9IDMnRbe7+LBNc=</dsig:DigestValue></asmv2:hash></file>
+  <file name="PkgMgr.exe" sourceName="PkgMgr.exe" sourcePath=".\" importPath="$(build.nttree)\">
+    
+  <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#"><dsig:Transforms><dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity"></dsig:Transform></dsig:Transforms><dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256"></dsig:DigestMethod><dsig:DigestValue>6SxCOkGjZAVRzHvucniKxzzNvLQGNJL73y9DmLeYylo=</dsig:DigestValue></asmv2:hash></file>
+  <file name="cmiv2.dll" sourceName="cmiv2.dll" sourcePath=".\" importPath="$(build.nttree)\cmi\">
+    
+  <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#"><dsig:Transforms><dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity"></dsig:Transform></dsig:Transforms><dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256"></dsig:DigestMethod><dsig:DigestValue>hwkbTHA2gPirBjqbX9pbAiwKXFnkUEWu7ie3f2wiPYU=</dsig:DigestValue></asmv2:hash></file>
+  <file name="cmitrust.dll" sourceName="cmitrust.dll" sourcePath=".\" importPath="$(build.nttree)\cmi\">
+    
+  <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#"><dsig:Transforms><dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity"></dsig:Transform></dsig:Transforms><dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256"></dsig:DigestMethod><dsig:DigestValue>DRBe6TO6OHGr9hZCrW+VEtHF5Ey7I6ILtBszczIIl9E=</dsig:DigestValue></asmv2:hash></file>
+  <file name="locdrv.dll" sourceName="locdrv.dll" importPath="$(build.nttree)\setup\sources\">
+    
+  <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#"><dsig:Transforms><dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity"></dsig:Transform></dsig:Transforms><dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256"></dsig:DigestMethod><dsig:DigestValue>42wMdSw1+MUQp6g2Oag2J4GYx4RHWmdZwPAF00ZHRCw=</dsig:DigestValue></asmv2:hash></file>
+  <file name="WcmTypes.xsd" sourceName="WcmTypes.xsd" sourcePath=".\" importPath="$(build.nttree)\">
+    
+  <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#"><dsig:Transforms><dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity"></dsig:Transform></dsig:Transforms><dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256"></dsig:DigestMethod><dsig:DigestValue>zXAbK91xiU0mE97L7gFkRvgmHWy7UUk+7/NyUwsA4fE=</dsig:DigestValue></asmv2:hash></file>
+  <file name="helpcins.dll" sourceName="helpcins.dll" sourcePath=".\" importPath="$(build.nttree)\">
+    
+  <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#"><dsig:Transforms><dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity"></dsig:Transform></dsig:Transforms><dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256"></dsig:DigestMethod><dsig:DigestValue>OD5SoD8FLb1B3sRMIsrX8dt0nP2Aglsu0wK0tK2cbDE=</dsig:DigestValue></asmv2:hash></file>
+  <file name="OEMHelpIns.dll" sourceName="OEMHelpIns.dll" sourcePath=".\" importPath="$(build.nttree)\">
+    
+  <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#"><dsig:Transforms><dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity"></dsig:Transform></dsig:Transforms><dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256"></dsig:DigestMethod><dsig:DigestValue>2EVEUmW292sISLvergokRLqU4pzD/wjUm9hhQyNBkSE=</dsig:DigestValue></asmv2:hash></file>
+  <file name="apds.dll" sourceName="apds.dll" sourcePath=".\" importPath="$(build.nttree)\setup\sources\ServicingStackMisc\">
+    
+  <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#"><dsig:Transforms><dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity"></dsig:Transform></dsig:Transforms><dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256"></dsig:DigestMethod><dsig:DigestValue>4aZqzCdGnSGi3vF8LWMqThS/99GxIEjlraYoVX5m1kY=</dsig:DigestValue></asmv2:hash></file>
+  <file name="apss.dll" sourceName="apss.dll" sourcePath=".\" importPath="$(build.nttree)\setup\sources\ServicingStackMisc\">
+    
+  <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#"><dsig:Transforms><dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity"></dsig:Transform></dsig:Transforms><dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256"></dsig:DigestMethod><dsig:DigestValue>w2c8XDueFU9G/c0mM6QlXSUDQWflzUXdw1uEH8R9h3s=</dsig:DigestValue></asmv2:hash></file>
+  <file name="apircl.dll" sourceName="apircl.dll" sourcePath=".\" importPath="$(build.nttree)\setup\sources\ServicingStackMisc\">
+    
+  <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#"><dsig:Transforms><dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity"></dsig:Transform></dsig:Transforms><dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256"></dsig:DigestMethod><dsig:DigestValue>tFNfV7dKH6C5FYF4RxXxUYSxBlBiPDDctsjX+tmhhwA=</dsig:DigestValue></asmv2:hash></file>
+  <file name="CbsMsg.dll" sourceName="CbsMsg.dll" sourcePath=".\" importPath="$(build.nttree)\">
+    
+  <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#"><dsig:Transforms><dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity"></dsig:Transform></dsig:Transforms><dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256"></dsig:DigestMethod><dsig:DigestValue>8UUPwjexwCXbHG21g6zn45rEiHwHzJ9dJ7d8hKedCVs=</dsig:DigestValue></asmv2:hash></file>
+  <file name="CbsCore.dll" sourceName="CbsCore.dll" sourcePath=".\" importPath="$(build.nttree)\">
+    
+  <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#"><dsig:Transforms><dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity"></dsig:Transform></dsig:Transforms><dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256"></dsig:DigestMethod><dsig:DigestValue>gLzJqYJ7q59JpgUFqjT4Jb5PywhHgxW/e/RiWS0fI64=</dsig:DigestValue></asmv2:hash></file>
+  <file name="DrUpdate.dll" sourceName="DrUpdate.dll" sourcePath=".\" importPath="$(build.nttree)\">
+    
+  <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#"><dsig:Transforms><dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity"></dsig:Transform></dsig:Transforms><dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256"></dsig:DigestMethod><dsig:DigestValue>AQ/UyRl8jJAVWYC8KKyWBzVr9q+Cptwdv+CGs2Qktpo=</dsig:DigestValue></asmv2:hash></file>
+  <file name="wrpint.dll" sourceName="wrpint.dll" sourcePath=".\" importPath="$(build.nttree)\">
+    
+  <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#"><dsig:Transforms><dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity"></dsig:Transform></dsig:Transforms><dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256"></dsig:DigestMethod><dsig:DigestValue>etVqZ50b/oUhhcnB7lvDp9FBi3BGPab3rAhuf5RIqvc=</dsig:DigestValue></asmv2:hash></file>
+  <file name="wcp.dll" sourceName="wcp.dll" sourcePath=".\" importPath="$(build.nttree)\">
+    
+  <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#"><dsig:Transforms><dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity"></dsig:Transform></dsig:Transforms><dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256"></dsig:DigestMethod><dsig:DigestValue>KZNX0ZmWYLdWeVcnq6tSgoLoSSpbx0DQC5Gxd7xpgdQ=</dsig:DigestValue></asmv2:hash></file>
+  <file name="cmiadapter.dll" sourceName="cmiadapter.dll" sourcePath=".\" importPath="$(build.nttree)\">
+    
+  <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#"><dsig:Transforms><dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity"></dsig:Transform></dsig:Transforms><dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256"></dsig:DigestMethod><dsig:DigestValue>14D96udGpVIKZ7uxeHNDmfJnbwLreh189+yupK3BP7o=</dsig:DigestValue></asmv2:hash></file>
+  <file name="smiengine.dll" sourceName="smiengine.dll" sourcePath=".\" importPath="$(build.nttree)\">
+    
+  <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#"><dsig:Transforms><dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity"></dsig:Transform></dsig:Transforms><dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256"></dsig:DigestMethod><dsig:DigestValue>DXLIs/GwWp0Io0MWucLGm+kI0dOuZ5izuZ47VA5f0L0=</dsig:DigestValue></asmv2:hash></file>
+  <file name="smipi.dll" sourceName="smipi.dll" sourcePath=".\" importPath="$(build.nttree)\">
+    
+  <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#"><dsig:Transforms><dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity"></dsig:Transform></dsig:Transforms><dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256"></dsig:DigestMethod><dsig:DigestValue>z+Yuo7wm5h948wNMzkxt9MN2UpxJzSf87v/ud3xGB18=</dsig:DigestValue></asmv2:hash></file>
+  <file name="GlobalInstallOrder.xml" sourceName="GlobalInstallOrder.xml" sourcePath=".\" importPath="$(build.nttree)\">
+    
+  <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#"><dsig:Transforms><dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity"></dsig:Transform></dsig:Transforms><dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256"></dsig:DigestMethod><dsig:DigestValue>XKBwGKzPiDg19CTN4Yyi7Z5KeEG2+kWlLCnbdxQOk+k=</dsig:DigestValue></asmv2:hash></file>
+  <file name="poqexec.exe" destinationPath="$(runtime.system32)\" sourceName="poqexec.exe" sourcePath=".\" importPath="$(build.nttree)\">
+    <securityDescriptor name="WRP_FILE_DEFAULT_SDDL"></securityDescriptor>
+    
+  <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#"><dsig:Transforms><dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity"></dsig:Transform></dsig:Transforms><dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256"></dsig:DigestMethod><dsig:DigestValue>zRXlp6+ljOgfR7bTvcs6//RNmtVYa5Q1VetG911QIkE=</dsig:DigestValue></asmv2:hash></file>
+  <file name="x86_installed" destinationPath="$(runtime.windows)\Servicing\Version\6.1.7601.17592\" sourceName="stack-dumpling.txt" sourcePath=".\" importPath="$(build.nttree)\">
+    <securityDescriptor name="WRP_FILE_DEFAULT_SDDL"></securityDescriptor>
+    
+  <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#"><dsig:Transforms><dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity"></dsig:Transform></dsig:Transforms><dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256"></dsig:DigestMethod><dsig:DigestValue>GEU8n23cOMhqgD0IpgklakSqxX72wee3WuqTtQukZag=</dsig:DigestValue></asmv2:hash></file>
+  <file name="SvcIni.exe" sourceName="SvcIni.exe" sourcePath=".\" importPath="$(build.nttree)\">
+    
+  <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#"><dsig:Transforms><dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity"></dsig:Transform></dsig:Transforms><dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256"></dsig:DigestMethod><dsig:DigestValue>D2YPXiefV6h/q1ayg7QZ9RAIcSB9rBXXSFWj6EaXr5M=</dsig:DigestValue></asmv2:hash></file>
+  <file name="wmicmiplugin.dll" sourceName="wmicmiplugin.dll" sourcePath=".\" importPath="$(build.nttree)\">
+    
+  <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#"><dsig:Transforms><dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity"></dsig:Transform></dsig:Transforms><dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256"></dsig:DigestMethod><dsig:DigestValue>M3BUeAfXOSf/TIcxj4OXFzNJq5z7KQg15jtEANwgyuQ=</dsig:DigestValue></asmv2:hash></file>
+  <directories>
+    <directory destinationPath="$(runtime.system32)\AdvancedInstallers\" owner="false">
+      <securityDescriptor name="WRP_DIR_DEFAULT_SDDL"></securityDescriptor>
+    </directory>
+  </directories>
+  <registryKeys>
+    <registryKey keyName="HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Component Based Servicing" owner="false">
+      <registryValue name="EnableLog" valueType="REG_DWORD" value="0x00000001" operationHint="replace" owner="true"></registryValue>
+      <securityDescriptor name="WRP_REGKEY_DEFAULT_SDDL"></securityDescriptor>
+    </registryKey>
+    <registryKey keyName="HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Component Based Servicing\Version" owner="false">
+      <registryValue name="6.1.7601.17592" valueType="REG_EXPAND_SZ" value="%SystemRoot%\winsxs\x86_microsoft-windows-servicingstack_31bf3856ad364e35_6.1.7601.17592_none_0b0e4b4025cf4049" operationHint="replace" owner="true"></registryValue>
+      <securityDescriptor name="WRP_REGKEY_DEFAULT_SDDL"></securityDescriptor>
+    </registryKey>
+    <registryKey keyName="HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Winlogon\Notifications\Components\TrustedInstaller" owner="false">
+      <registryValue name="Friendly Name" valueType="REG_SZ" value="Windows Modules Installer" operationHint="replace" owner="true"></registryValue>
+      <registryValue name="ServiceName" valueType="REG_SZ" value="TrustedInstaller" operationHint="replace" owner="true"></registryValue>
+    </registryKey>
+    <registryKey keyName="HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\TrustedInstaller" owner="false">
+      <registryValue name="BlockTime" valueType="REG_DWORD" value="0x00002a30" operationHint="replace" owner="true"></registryValue>
+      <registryValue name="BlockTimeIncrement" valueType="REG_DWORD" value="0x00000384" operationHint="replace" owner="true"></registryValue>
+      <registryValue name="PreshutdownTimeout" valueType="REG_DWORD" value="0x0036ee80" operationHint="replace" owner="true"></registryValue>
+    </registryKey>
+  </registryKeys>
+  <trustInfo>
+    <security>
+      <accessControl>
+        <securityDescriptorDefinitions>
+          <securityDescriptorDefinition name="WRP_DIR_DEFAULT_SDDL" sddl="O:S-1-5-80-956008885-3418522649-1831038044-1853292631-2271478464G:S-1-5-80-956008885-3418522649-1831038044-1853292631-2271478464D:P(A;CIOI;GA;;;S-1-5-80-956008885-3418522649-1831038044-1853292631-2271478464)(A;CIOI;GRGX;;;SY)(A;CIOI;GRGX;;;BA)(A;CIOI;GRGX;;;BU)S:(AU;FASA;SDWDWOFW;;;WD)" operationHint="replace"></securityDescriptorDefinition>
+          <securityDescriptorDefinition name="WRP_FILE_DEFAULT_SDDL" sddl="O:S-1-5-80-956008885-3418522649-1831038044-1853292631-2271478464G:S-1-5-80-956008885-3418522649-1831038044-1853292631-2271478464D:P(A;;FA;;;S-1-5-80-956008885-3418522649-1831038044-1853292631-2271478464)(A;;GRGX;;;BA)(A;;GRGX;;;SY)(A;;GRGX;;;BU)S:(AU;FASA;0x000D0116;;;WD)" operationHint="replace" description="Default SDDL for Windows Resource Protected file"></securityDescriptorDefinition>
+          <securityDescriptorDefinition name="WRP_REGKEY_DEFAULT_SDDL" sddl="O:S-1-5-80-956008885-3418522649-1831038044-1853292631-2271478464G:S-1-5-80-956008885-3418522649-1831038044-1853292631-2271478464D:P(A;CI;GA;;;S-1-5-80-956008885-3418522649-1831038044-1853292631-2271478464)(A;CI;GR;;;SY)(A;CI;GR;;;BA)(A;CI;GR;;;BU)" operationHint="replace"></securityDescriptorDefinition>
+          <securityDescriptorDefinition name="WRP_REGKEY_WRITE_ADMIN_SYSTEM_READ_USER" sddl="D:P(A;OICI;KA;;;BA)(A;OICI;KA;;;SY)(A;OICI;KR;;;BU)" operationHint="replace"></securityDescriptorDefinition>
+        </securityDescriptorDefinitions>
+      </accessControl>
+    </security>
+  </trustInfo>
+  <localization>
+    <resources culture="en-US">
+      <stringTable>
+        <string id="description" value="Servicing Stack Component"></string>
+        <string id="displayName" value="Servicing Stack"></string>
+      </stringTable>
+    </resources>
+  </localization>
+</assembly>

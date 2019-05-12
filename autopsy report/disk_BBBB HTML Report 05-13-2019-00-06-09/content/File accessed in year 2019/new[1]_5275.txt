@@ -1,0 +1,877 @@
+
+<!doctype html>
+<html class="windows no-js" lang="sl" dir="ltr" data-latest-firefox="27.0" data-esr-versions="[10, 17, 24]">
+  <head>
+    <meta charset="utf-8"><!--
+             _.-~-.
+           7''  Q..\
+        _7         (_
+      _7  _/    _q.  /
+    _7 . ___  /VVvv-'_                                            .
+   7/ / /~- \_\\      '-._     .-'                      /       //
+  ./ ( /-~-/||'=.__  '::. '-~'' {             ___   /  //     ./{
+ V   V-~-~| ||   __''_   ':::.   ''~-~.___.-'' _/  // / {_   /  {  /
+  VV/-~-~-|/ \ .'__'. '.    '::                     _ _ _        ''.
+  / /~~~~||VVV/ /  \ )  \        _ __ ___   ___ ___(_) | | __ _   .::'
+ / (~-~-~\\.-' /    \'   \::::. | '_ ` _ \ / _ \_  / | | |/ _` | :::'
+/..\    /..\__/      '     '::: | | | | | | (_) / /| | | | (_| | ::'
+vVVv    vVVv                 ': |_| |_| |_|\___/___|_|_|_|\__,_| ''
+
+Hi there, nice to meet you!
+
+Interested in having a direct impact on hundreds of millions of users? Join
+Mozilla, and become part of a global community that’s helping to build a
+brighter future for the Web.
+
+Visit https://careers.mozilla.org to learn about our current job openings.
+Visit https://www.mozilla.org/contribute for more ways to get involved and
+help support Mozilla.-->
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <title>Prenesite Firefox — Brezplačen brskalnik — Mozilla</title>
+    <meta name="description" content="Download Mozilla Firefox, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox today!">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Mozilla">
+    <meta property="og:locale" content="sl">
+    <meta property="og:url" content="http://www.mozilla.org/sl/firefox/new/">
+    <meta property="og:image" content="https://mozorg.cdn.mozilla.net/media/img/firefox/firefox-256.jpg">
+    <meta property="og:title" content="Prenesite Firefox — Brezplačen brskalnik">
+    <meta property="og:description" content="Download Mozilla Firefox, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox today!">
+    <meta property="fb:page_id" content="14696440021">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@firefox">
+    <meta name="twitter:domain" content="mozilla.org">
+    <meta name="twitter:app:name:googleplay" content="Firefox">
+    <meta name="twitter:app:id:googleplay" content="org.mozilla.firefox">
+    <link rel="shortcut icon" href="//mozorg.cdn.mozilla.net/media/img/firefox/favicon.ico?2013-08">
+        <link rel="canonical" hreflang="sl" href="http://www.mozilla.org/sl/firefox/new/">
+    <link rel="alternate" hreflang="x-default" href="http://www.mozilla.org/firefox/new/">
+    <link rel="alternate" hreflang="af" href="http://www.mozilla.org/af/firefox/new/" title="Afrikaans">
+    <link rel="alternate" hreflang="ak" href="http://www.mozilla.org/ak/firefox/new/" title="Akan">
+    <link rel="alternate" hreflang="an" href="http://www.mozilla.org/an/firefox/new/" title="aragonés">
+    <link rel="alternate" hreflang="ar" href="http://www.mozilla.org/ar/firefox/new/" title="عربي">
+    <link rel="alternate" hreflang="ast" href="http://www.mozilla.org/ast/firefox/new/" title="Asturianu">
+    <link rel="alternate" hreflang="bg" href="http://www.mozilla.org/bg/firefox/new/" title="Български">
+    <link rel="alternate" hreflang="br" href="http://www.mozilla.org/br/firefox/new/" title="Brezhoneg">
+    <link rel="alternate" hreflang="ca" href="http://www.mozilla.org/ca/firefox/new/" title="Català">
+    <link rel="alternate" hreflang="cs" href="http://www.mozilla.org/cs/firefox/new/" title="Čeština">
+    <link rel="alternate" hreflang="csb" href="http://www.mozilla.org/csb/firefox/new/" title="Kaszëbsczi">
+    <link rel="alternate" hreflang="cy" href="http://www.mozilla.org/cy/firefox/new/" title="Cymraeg">
+    <link rel="alternate" hreflang="da" href="http://www.mozilla.org/da/firefox/new/" title="Dansk">
+    <link rel="alternate" hreflang="de" href="http://www.mozilla.org/de/firefox/new/" title="Deutsch">
+    <link rel="alternate" hreflang="el" href="http://www.mozilla.org/el/firefox/new/" title="Ελληνικά">
+    <link rel="alternate" hreflang="en-GB" href="http://www.mozilla.org/en-GB/firefox/new/" title="English (British)">
+    <link rel="alternate" hreflang="en-US" href="http://www.mozilla.org/en-US/firefox/new/" title="English (US)">
+    <link rel="alternate" hreflang="eo" href="http://www.mozilla.org/eo/firefox/new/" title="Esperanto">
+    <link rel="alternate" hreflang="es-AR" href="http://www.mozilla.org/es-AR/firefox/new/" title="Español (de Argentina)">
+    <link rel="alternate" hreflang="es-CL" href="http://www.mozilla.org/es-CL/firefox/new/" title="Español (de Chile)">
+    <link rel="alternate" hreflang="es-ES" href="http://www.mozilla.org/es-ES/firefox/new/" title="Español (de España)">
+    <link rel="alternate" hreflang="es-MX" href="http://www.mozilla.org/es-MX/firefox/new/" title="Español (de México)">
+    <link rel="alternate" hreflang="et" href="http://www.mozilla.org/et/firefox/new/" title="Eesti keel">
+    <link rel="alternate" hreflang="eu" href="http://www.mozilla.org/eu/firefox/new/" title="Euskara">
+    <link rel="alternate" hreflang="fa" href="http://www.mozilla.org/fa/firefox/new/" title="فارسی">
+    <link rel="alternate" hreflang="fi" href="http://www.mozilla.org/fi/firefox/new/" title="suomi">
+    <link rel="alternate" hreflang="fr" href="http://www.mozilla.org/fr/firefox/new/" title="Français">
+    <link rel="alternate" hreflang="fy-NL" href="http://www.mozilla.org/fy-NL/firefox/new/" title="Frysk">
+    <link rel="alternate" hreflang="ga-IE" href="http://www.mozilla.org/ga-IE/firefox/new/" title="Gaeilge">
+    <link rel="alternate" hreflang="gd" href="http://www.mozilla.org/gd/firefox/new/" title="Gàidhlig">
+    <link rel="alternate" hreflang="gl" href="http://www.mozilla.org/gl/firefox/new/" title="Galego">
+    <link rel="alternate" hreflang="he" href="http://www.mozilla.org/he/firefox/new/" title="עברית">
+    <link rel="alternate" hreflang="hi-IN" href="http://www.mozilla.org/hi-IN/firefox/new/" title="हिन्दी (भारत)">
+    <link rel="alternate" hreflang="hr" href="http://www.mozilla.org/hr/firefox/new/" title="Hrvatski">
+    <link rel="alternate" hreflang="hu" href="http://www.mozilla.org/hu/firefox/new/" title="magyar">
+    <link rel="alternate" hreflang="hy-AM" href="http://www.mozilla.org/hy-AM/firefox/new/" title="Հայերեն">
+    <link rel="alternate" hreflang="id" href="http://www.mozilla.org/id/firefox/new/" title="Bahasa Indonesia">
+    <link rel="alternate" hreflang="is" href="http://www.mozilla.org/is/firefox/new/" title="íslenska">
+    <link rel="alternate" hreflang="it" href="http://www.mozilla.org/it/firefox/new/" title="Italiano">
+    <link rel="alternate" hreflang="ka" href="http://www.mozilla.org/ka/firefox/new/" title="ქართული">
+    <link rel="alternate" hreflang="kk" href="http://www.mozilla.org/kk/firefox/new/" title="Қазақ">
+    <link rel="alternate" hreflang="km" href="http://www.mozilla.org/km/firefox/new/" title="ខ្មែរ">
+    <link rel="alternate" hreflang="ko" href="http://www.mozilla.org/ko/firefox/new/" title="한국어">
+    <link rel="alternate" hreflang="ku" href="http://www.mozilla.org/ku/firefox/new/" title="Kurdî">
+    <link rel="alternate" hreflang="lg" href="http://www.mozilla.org/lg/firefox/new/" title="Luganda">
+    <link rel="alternate" hreflang="lij" href="http://www.mozilla.org/lij/firefox/new/" title="Ligure">
+    <link rel="alternate" hreflang="lt" href="http://www.mozilla.org/lt/firefox/new/" title="lietuvių kalba">
+    <link rel="alternate" hreflang="lv" href="http://www.mozilla.org/lv/firefox/new/" title="Latviešu">
+    <link rel="alternate" hreflang="mk" href="http://www.mozilla.org/mk/firefox/new/" title="Македонски">
+    <link rel="alternate" hreflang="ml" href="http://www.mozilla.org/ml/firefox/new/" title="മലയാളം">
+    <link rel="alternate" hreflang="mr" href="http://www.mozilla.org/mr/firefox/new/" title="मराठी">
+    <link rel="alternate" hreflang="ms" href="http://www.mozilla.org/ms/firefox/new/" title="Melayu">
+    <link rel="alternate" hreflang="my" href="http://www.mozilla.org/my/firefox/new/" title="မြန်မာဘာသာ">
+    <link rel="alternate" hreflang="nb-NO" href="http://www.mozilla.org/nb-NO/firefox/new/" title="Norsk bokmål">
+    <link rel="alternate" hreflang="nl" href="http://www.mozilla.org/nl/firefox/new/" title="Nederlands">
+    <link rel="alternate" hreflang="nso" href="http://www.mozilla.org/nso/firefox/new/" title="Sepedi">
+    <link rel="alternate" hreflang="oc" href="http://www.mozilla.org/oc/firefox/new/" title="occitan (lengadocian)">
+    <link rel="alternate" hreflang="pa-IN" href="http://www.mozilla.org/pa-IN/firefox/new/" title="ਪੰਜਾਬੀ">
+    <link rel="alternate" hreflang="pl" href="http://www.mozilla.org/pl/firefox/new/" title="Polski">
+    <link rel="alternate" hreflang="pt-BR" href="http://www.mozilla.org/pt-BR/firefox/new/" title="Português (do Brasil)">
+    <link rel="alternate" hreflang="pt-PT" href="http://www.mozilla.org/pt-PT/firefox/new/" title="Português (Europeu)">
+    <link rel="alternate" hreflang="rm" href="http://www.mozilla.org/rm/firefox/new/" title="rumantsch">
+    <link rel="alternate" hreflang="ro" href="http://www.mozilla.org/ro/firefox/new/" title="română">
+    <link rel="alternate" hreflang="ru" href="http://www.mozilla.org/ru/firefox/new/" title="Русский">
+    <link rel="alternate" hreflang="sk" href="http://www.mozilla.org/sk/firefox/new/" title="slovenčina">
+    <link rel="alternate" hreflang="sl" href="http://www.mozilla.org/sl/firefox/new/" title="Slovenščina">
+    <link rel="alternate" hreflang="son" href="http://www.mozilla.org/son/firefox/new/" title="Soŋay">
+    <link rel="alternate" hreflang="sq" href="http://www.mozilla.org/sq/firefox/new/" title="Shqip">
+    <link rel="alternate" hreflang="sr" href="http://www.mozilla.org/sr/firefox/new/" title="Српски">
+    <link rel="alternate" hreflang="sv-SE" href="http://www.mozilla.org/sv-SE/firefox/new/" title="Svenska">
+    <link rel="alternate" hreflang="ta" href="http://www.mozilla.org/ta/firefox/new/" title="தமிழ்">
+    <link rel="alternate" hreflang="te" href="http://www.mozilla.org/te/firefox/new/" title="తెలుగు">
+    <link rel="alternate" hreflang="th" href="http://www.mozilla.org/th/firefox/new/" title="ไทย">
+    <link rel="alternate" hreflang="tr" href="http://www.mozilla.org/tr/firefox/new/" title="Türkçe">
+    <link rel="alternate" hreflang="uk" href="http://www.mozilla.org/uk/firefox/new/" title="Українська">
+    <link rel="alternate" hreflang="ur" href="http://www.mozilla.org/ur/firefox/new/" title="اُردو">
+    <link rel="alternate" hreflang="vi" href="http://www.mozilla.org/vi/firefox/new/" title="Tiếng Việt">
+    <link rel="alternate" hreflang="xh" href="http://www.mozilla.org/xh/firefox/new/" title="isiXhosa">
+    <link rel="alternate" hreflang="zh-CN" href="http://www.mozilla.org/zh-CN/firefox/new/" title="中文 (简体)">
+    <link rel="alternate" hreflang="zh-TW" href="http://www.mozilla.org/zh-TW/firefox/new/" title="正體中文 (繁體)">
+        
+          <link rel="stylesheet" media="screen,projection,tv" href="//mozorg.cdn.mozilla.net/media/css/tabzilla-min.css?build=066deae" />
+    
+    <!--[if lte IE 8]>
+    <script src="//mozorg.cdn.mozilla.net/media/js/libs/html5shiv.js"></script>
+    <![endif]-->
+
+      <link rel="stylesheet" media="screen,projection,tv" href="//mozorg.cdn.mozilla.net/media/css/firefox_new-min.css?build=066deae" />
+
+    
+      
+    <script src="//mozorg.cdn.mozilla.net/media/js/site-min.js?build=066deae"></script>
+
+            <script src="//cdn.optimizely.com/js/246059135.js"></script>
+    
+      <script src="//mozorg.cdn.mozilla.net/media/js/common-resp-min.js?build=066deae"></script>
+  <script src="//mozorg.cdn.mozilla.net/media/js/firefox_new-min.js?build=066deae"></script>
+          <script>
+var _gaq = _gaq || [];
+var pluginUrl = '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+_gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+_gaq.push(['_setAccount', 'UA-36116321-1']);
+_gaq.push(['_setAllowLinker', true]);
+_gaq.push(['_setAllowAnchor', true]);
+_gaq.push(['_trackPageview']);
+
+(function() {
+    var ga = document.createElement('script');
+    ga.type = 'text/javascript';
+    ga.async = true;
+
+    var prefix = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www');
+    ga.src = prefix + '.google-analytics.com/ga.js';
+
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(ga, s);
+})();
+</script>      </head>
+
+  <body id="firefox-new" class="html-ltr sky">
+    <div id="strings" data-global-close="Zapri" ></div>
+    <div id="outer-wrapper">
+    <div id="wrapper">
+
+          <header id="masthead">
+        <a href="/sl/" id="tabzilla" data-infobar="translation">Mozilla</a>
+        
+          <h2><img src="//mozorg.cdn.mozilla.net/media/img/firefox/new/header-firefox.png?2013-06" alt="Firefox za namizje"></h2>
+
+        
+        
+        
+      </header>
+    
+    
+              
+    
+<main role="main">
+  <div class="version-message-container">
+    <div id="version-message-ios" class="version-message">
+      Žal Firefox trenutno ni podprt na napravah z iOS.
+    </div>
+    <div id="version-message-android-latest" class="version-message">
+      Čestitke, uporabljate najnovejšo različico Firefoxa.
+    </div>
+    <div id="version-message-android-old" class="version-message">
+      Očitno uporabljate starejšo različico Firefoxa. Posodobite ga na Google Play.
+    </div>
+    <div id="version-message-desktop-latest" class="version-message">
+      Čestitke, uporabljate najnovejšo različico Firefoxa.
+    </div>
+    <div id="version-message-desktop-old" class="version-message">
+      Očitno uporabljate starejšo različico Firefoxa.
+      <div class="version-message-secondary">
+        <a href="https://support.mozilla.org/kb/update-firefox-latest-version">Posodobite ga za več hitrosti in varnosti.</a>
+      </div>
+    </div>
+  </div>
+  <div id="main-feature">
+    <div class="row">
+      <img src="//mozorg.cdn.mozilla.net/media/img/firefox/new/firefox-logo.png?2013-06" alt="Firefox" />
+      <h1 class="large">Drugačen z razlogom</h1>
+    </div>
+  </div>
+
+  <div class="theater" id="theater-firefox">
+    <div class="stage" id="stage-firefox">
+      <div class="scene" id="scene1">
+        <div class="container" id="features-download">
+          <ul id="features">
+            <li>S ponosom <br />neprofiten</li>
+            <li>Inovativen <br />za vas</li>
+            <li>Hiter, varen,<br /> prilagodljiv</li>
+          </ul>
+
+          <div class="desktop download-button-wrapper">
+            
+
+<div id="download-button-desktop-release" class="download-button">
+      <noscript>
+        <div class="download download-dumb">
+    <h4>Prenesite Firefox — Slovenščina</h4>
+    <ul>
+      <li><a href="https://download.mozilla.org/?product=firefox-stub&amp;os=win&amp;lang=sl" class="button-green">Windows</a></li><li><a href="https://download.mozilla.org/?product=firefox-27.0&amp;os=linux&amp;lang=sl" class="button-green">Linux</a></li><li><a href="https://download.mozilla.org/?product=firefox-27.0&amp;os=osx&amp;lang=sl" class="button-green">Mac OS X</a></li><li><a href="https://play.google.com/store/apps/details?id=org.mozilla.firefox&amp;utm_source=mozilla&amp;utm_medium=Referral&amp;utm_campaign=mozilla-org" class="button-green">Android</a></li>    </ul>
+  </div>
+
+    </noscript>
+    <div class="unrecognized-download">
+        <div class="download download-dumb">
+    <h4>Prenesite Firefox — Slovenščina</h4>
+    <ul>
+      <li><a href="https://download.mozilla.org/?product=firefox-stub&amp;os=win&amp;lang=sl" class="button-green">Windows</a></li><li><a href="https://download.mozilla.org/?product=firefox-27.0&amp;os=linux&amp;lang=sl" class="button-green">Linux</a></li><li><a href="https://download.mozilla.org/?product=firefox-27.0&amp;os=osx&amp;lang=sl" class="button-green">Mac OS X</a></li><li><a href="https://play.google.com/store/apps/details?id=org.mozilla.firefox&amp;utm_source=mozilla&amp;utm_medium=Referral&amp;utm_campaign=mozilla-org" class="button-green">Android</a></li>    </ul>
+  </div>
+
+    </div>
+        <p class="unsupported-download">
+      Vaš sistem ne ustreza <a href="/sl/firefox/27.0/system-requirements/">zahtevam</a> za uporabo Firefoxa.
+    </p>
+    <ul class="download-list">
+          <li class="os_windows">
+        <a class="download-link"
+           href="https://download.mozilla.org/?product=firefox-stub&amp;os=win&amp;lang=sl">
+          <span class="download-content">
+                                          <strong class="download-title">Firefox</strong>
+                            <span class="download-subtitle">Brezplačen prenos</span>
+              <span class="download-lang">Slovenščina</span>
+              <span class="download-platform">Windows</span>
+                      </span>
+        </a>
+      </li>
+          <li class="os_linux">
+        <a class="download-link"
+           href="https://download.mozilla.org/?product=firefox-27.0&amp;os=linux&amp;lang=sl">
+          <span class="download-content">
+                                          <strong class="download-title">Firefox</strong>
+                            <span class="download-subtitle">Brezplačen prenos</span>
+              <span class="download-lang">Slovenščina</span>
+              <span class="download-platform">Linux</span>
+                      </span>
+        </a>
+      </li>
+          <li class="os_osx">
+        <a class="download-link"
+           href="https://download.mozilla.org/?product=firefox-27.0&amp;os=osx&amp;lang=sl">
+          <span class="download-content">
+                                          <strong class="download-title">Firefox</strong>
+                            <span class="download-subtitle">Brezplačen prenos</span>
+              <span class="download-lang">Slovenščina</span>
+              <span class="download-platform">Mac OS X</span>
+                      </span>
+        </a>
+      </li>
+          <li class="os_android">
+        <a class="download-link"
+           href="https://play.google.com/store/apps/details?id=org.mozilla.firefox&amp;utm_source=mozilla&amp;utm_medium=Referral&amp;utm_campaign=mozilla-org">
+          <span class="download-content">
+                                          <strong class="download-title"><span>Firefox</span> za Android</strong>
+                                            <span class="download-subtitle">Brezplačno ga prenesite iz Google Play</span>
+                                    </span>
+        </a>
+      </li>
+      </ul>
+      <small class="download-other os_android">
+      <a href="https://support.mozilla.org/kb/will-firefox-work-my-mobile-device">Podprte naprave</a> |
+              <a href="/en-US/mobile/notes">Novosti</a> |
+            <a href="/en-US/legal/privacy/firefox.html">Zasebnost</a>
+    </small>
+        <small class="download-other os_linux os_osx os_windows">
+              <a href="/en-US/firefox/all">Sistemi in jeziki</a> |
+        <a href="/en-US/firefox/notes">Novosti</a> |
+            <a href="/en-US/legal/privacy/firefox.html">Zasebnost</a>
+    </small>
+  </div>
+          </div>
+          <div class="mobile download-button-wrapper">
+            
+
+<div id="download-button-mobile-release" class="download-button download-button-mobile">
+    <ul class="download-list">
+          <li class="os_android">
+        <a class="download-link"
+           href="https://play.google.com/store/apps/details?id=org.mozilla.firefox&amp;utm_source=mozilla&amp;utm_medium=Referral&amp;utm_campaign=mozilla-org">
+          <span class="download-content">
+                                          <strong class="download-title"><span>Firefox</span> za Android</strong>
+                                            <span class="download-subtitle">Brezplačno ga prenesite iz Google Play</span>
+                                    </span>
+        </a>
+      </li>
+      </ul>
+      <small class="download-other os_android">
+      <a href="https://support.mozilla.org/kb/will-firefox-work-my-mobile-device">Podprte naprave</a> |
+              <a href="/en-US/mobile/notes">Novosti</a> |
+            <a href="/en-US/legal/privacy/firefox.html">Zasebnost</a>
+    </small>
+    </div>
+          </div>
+          <div class="android download-button-wrapper" data-upgrade-subtitle="Brezplačno ga prenesite iz Google Play">
+            
+
+<div id="download-button-android" class="download-button download-button-mobile download-button-small download-button-noicon">
+    <ul class="download-list">
+          <li class="os_android">
+        <a class="download-link"
+           href="https://play.google.com/store/apps/details?id=org.mozilla.firefox&amp;utm_source=mozilla&amp;utm_medium=Referral&amp;utm_campaign=mozilla-org">
+          <span class="download-content">
+                                          <strong class="download-title"><span>Firefox</span> za Android</strong>
+                                            <span class="download-subtitle">Brezplačno ga prenesite iz Google Play</span>
+                                    </span>
+        </a>
+      </li>
+      </ul>
+      <small class="download-other os_android">
+      <a href="https://support.mozilla.org/kb/will-firefox-work-my-mobile-device">Podprte naprave</a> |
+              <a href="/en-US/mobile/notes">Novosti</a> |
+            <a href="/en-US/legal/privacy/firefox.html">Zasebnost</a>
+    </small>
+    </div>
+          </div>
+          <div class="desktop-latest-links-wrapper latest-links-wrapper">
+            <ul>
+              <li><a href="/sl/firefox/central/">Več o Firefoxu za namizja</a></li>
+              <li><a href="https://support.mozilla.org/products/firefox">Potrebujete pomoč?</a></li>
+              <li><a href="/sl/mobile/">Uporabljate telefon?</a></li>
+              <li><a href="/sl/firefox/all/">Prenesite svežo kopijo</a></li>
+            </ul>
+          </div>
+          <div class="android-latest-links-wrapper latest-links-wrapper">
+            <ul>
+              <li><a href="/sl/firefox/mobile/features/">Več o Firefoxu za telefone</a></li>
+            </ul>
+          </div>
+          <div class="fxos-latest-links-wrapper latest-links-wrapper">
+            <ul>
+              <li><a href="/sl/firefox/os/">Več o Firefox OS?</a></li>
+              <li><a href="/sl/mobile/">Odkrijte vse možnosti, kako vzeti Firefox na pot</a></li>
+            </ul>
+          </div>
+          <div class="ios-links-wrapper latest-links-wrapper">
+            <ul>
+              <li><a href="/sl/mobile/">Uporabljate telefon?</a></li>
+              <li><a href="https://support.mozilla.org/kb/is-firefox-available-iphone-or-ipad">Zakaj ne izdelujemo različice za iOS?</a></li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="desktop" id="firefox-screenshot">
+          <img class="platform-img js" src="" data-src="//mozorg.cdn.mozilla.net/media/img/firefox/new/browser.png?2013-08-27" alt="Zaslonski posnetek Firefoxa" data-additional-platforms="android ios"><noscript><img class="platform-img win" src="//mozorg.cdn.mozilla.net/media/img/firefox/new/browser.png?2013-08-27" alt="Zaslonski posnetek Firefoxa" data-additional-platforms="android ios"></noscript>
+        </div>
+
+        <div id="newsletter-latest">
+          
+  
+  <form class="billboard newsletter-form"
+            id="footer-email-form" action="https://www.mozilla.org/sl/firefox/new/#footer-email-form"
+            method="post">
+    <input type="hidden" name="newsletter" value="mozilla-and-you">
+    <input type="hidden" name="source_url" value="https://www.mozilla.org/sl/firefox/new/">
+
+          <h3>Novice o Firefoxu</h3>
+    
+    <div class="form-contents">
+      <div class="field field-email ">
+        <input type="email" required="required" placeholder="VAŠA E-POŠTA" name="email" id="id_email" />
+      </div>
+
+      <div id="form-details">
+                  <div class="field field-country">
+            <select required="required" name="country" aria-required="true" id="id_country">
+<option value="" selected="selected">Izberite državo</option>
+<option value="af">Afganistan</option>
+<option value="al">Albanija</option>
+<option value="dz">Alžirija</option>
+<option value="as">Ameriška Samoa</option>
+<option value="vi">Ameriški deviški otoki</option>
+<option value="um">Ameriški manjši zunanji otoki</option>
+<option value="ad">Andora</option>
+<option value="ao">Angola</option>
+<option value="ai">Angvila</option>
+<option value="aq">Antarktika</option>
+<option value="ag">Antigva in Barbuda</option>
+<option value="ar">Argentina</option>
+<option value="am">Armenija</option>
+<option value="aw">Aruba</option>
+<option value="au">Avstralija</option>
+<option value="at">Avstrija</option>
+<option value="az">Azerbajdžan</option>
+<option value="bs">Bahami</option>
+<option value="bh">Bahrajn</option>
+<option value="bd">Bangladeš</option>
+<option value="bb">Barbados</option>
+<option value="be">Belgija</option>
+<option value="bz">Belize</option>
+<option value="by">Belorusija</option>
+<option value="bj">Benin</option>
+<option value="bm">Bermudi</option>
+<option value="bw">Bocvana</option>
+<option value="bg">Bolgarija</option>
+<option value="bo">Bolivija</option>
+<option value="ba">Bosna in Hercegovina</option>
+<option value="bv">Bouvetov otok</option>
+<option value="cx">Božični otoki</option>
+<option value="br">Brazilija</option>
+<option value="vg">Britanski deviški otoki</option>
+<option value="io">Britanski teritorij v Indijskem oceanu</option>
+<option value="bn">Brunei Darussalam</option>
+<option value="bf">Burkina Faso</option>
+<option value="bi">Burundi</option>
+<option value="bt">Butan</option>
+<option value="cy">Ciper</option>
+<option value="ck">Cookovi otoki</option>
+<option value="dk">Danska</option>
+<option value="dm">Dominika</option>
+<option value="do">Dominikanska republika</option>
+<option value="dj">Džibuti</option>
+<option value="eg">Egipt</option>
+<option value="ec">Ekvador</option>
+<option value="gq">Ekvatorialna Gvineja</option>
+<option value="er">Eritreja</option>
+<option value="ee">Estonija</option>
+<option value="et">Etiopija</option>
+<option value="fk">Falklandi (Malvinski otoki)</option>
+<option value="fo">Ferski otoki</option>
+<option value="fj">Fidži</option>
+<option value="ph">Filipini</option>
+<option value="fi">Finska</option>
+<option value="fr">Francija</option>
+<option value="gf">Francoska Gvajana</option>
+<option value="pf">Francoska Polinezija</option>
+<option value="tf">Francoske južne in antarktične dežele</option>
+<option value="ga">Gabon</option>
+<option value="gm">Gambija</option>
+<option value="gh">Gana</option>
+<option value="gi">Gibraltar</option>
+<option value="gd">Grenada</option>
+<option value="gl">Grenlandija</option>
+<option value="ge">Gruzija</option>
+<option value="gr">Grčija</option>
+<option value="gp">Guadeloupe</option>
+<option value="gu">Guam</option>
+<option value="gg">Guernsey</option>
+<option value="gy">Gvajana</option>
+<option value="gt">Gvatemala</option>
+<option value="gn">Gvineja</option>
+<option value="gw">Gvineja Bissau</option>
+<option value="ht">Haiti</option>
+<option value="hn">Honduras</option>
+<option value="hk">Hong Kong</option>
+<option value="hr">Hrvaška</option>
+<option value="in">Indija</option>
+<option value="id">Indonezija</option>
+<option value="iq">Irak</option>
+<option value="ir">Iran</option>
+<option value="ie">Irska</option>
+<option value="is">Islandija</option>
+<option value="it">Italija</option>
+<option value="il">Izrael</option>
+<option value="jm">Jamajka</option>
+<option value="jp">Japonska</option>
+<option value="ye">Jemen</option>
+<option value="je">Jersey</option>
+<option value="jo">Jordanija</option>
+<option value="za">Južna Afrika</option>
+<option value="gs">Južna Georgia in Južni Sandwichevi otoki</option>
+<option value="kr">Južna Koreja</option>
+<option value="ky">Kajmanski otoki</option>
+<option value="kh">Kambodža</option>
+<option value="cm">Kamerun</option>
+<option value="ca">Kanada</option>
+<option value="qa">Katar</option>
+<option value="kz">Kazahstan</option>
+<option value="ke">Kenija</option>
+<option value="kg">Kirgizistan</option>
+<option value="ki">Kiribati</option>
+<option value="cn">Kitajska</option>
+<option value="cc">Kokosovi Otoki</option>
+<option value="co">Kolumbija</option>
+<option value="km">Komori</option>
+<option value="cd">Kongo - Kinšasa</option>
+<option value="cg">Kongo-Brazzaville</option>
+<option value="cr">Kostarika</option>
+<option value="cu">Kuba</option>
+<option value="kw">Kuvajt</option>
+<option value="la">Laos</option>
+<option value="lv">Latvija</option>
+<option value="ls">Lesoto</option>
+<option value="lb">Libanon</option>
+<option value="lr">Liberija</option>
+<option value="ly">Libija</option>
+<option value="li">Lihtenštajn</option>
+<option value="lt">Litva</option>
+<option value="lu">Luksemburg</option>
+<option value="mo">Macao</option>
+<option value="mg">Madagaskar</option>
+<option value="hu">Madžarska</option>
+<option value="mk">Makedonija</option>
+<option value="mw">Malavi</option>
+<option value="mv">Maldivi</option>
+<option value="my">Malezija</option>
+<option value="ml">Mali</option>
+<option value="mt">Malta</option>
+<option value="im">Man</option>
+<option value="ma">Maroko</option>
+<option value="mh">Marshallovi otoki</option>
+<option value="mq">Martinik</option>
+<option value="mu">Mauritius</option>
+<option value="mr">Mavretanija</option>
+<option value="yt">Mayotte</option>
+<option value="mx">Mehika</option>
+<option value="fm">Mikronezija</option>
+<option value="mm">Mjanmar</option>
+<option value="md">Moldavija</option>
+<option value="mc">Monako</option>
+<option value="mn">Mongolija</option>
+<option value="ms">Montserrat</option>
+<option value="mz">Mozambik</option>
+<option value="na">Namibija</option>
+<option value="nr">Nauru</option>
+<option value="de">Nemčija</option>
+<option value="np">Nepal</option>
+<option value="ne">Niger</option>
+<option value="ng">Nigerija</option>
+<option value="ni">Nikaragva</option>
+<option value="nu">Niue</option>
+<option value="nl">Nizozemska</option>
+<option value="an">Nizozemski Antili</option>
+<option value="no">Norveška</option>
+<option value="nc">Nova Kaledonija</option>
+<option value="nz">Nova Zelandija</option>
+<option value="ps">Okupirano palestinsko ozemlje</option>
+<option value="om">Oman</option>
+<option value="hm">Otok Heard in Otočje McDonald</option>
+<option value="nf">Otok Norfolk</option>
+<option value="tc">Otoki Turka in Caicosa</option>
+<option value="pk">Pakistan</option>
+<option value="pw">Palau</option>
+<option value="pa">Panama</option>
+<option value="pg">Papua Nova Gvineja</option>
+<option value="py">Paragvaj</option>
+<option value="pe">Peru</option>
+<option value="pn">Pitcairnovi otoki</option>
+<option value="pl">Poljska</option>
+<option value="pr">Portoriko</option>
+<option value="pt">Portugalska</option>
+<option value="re">Reunion</option>
+<option value="ro">Romunija</option>
+<option value="rw">Ruanda</option>
+<option value="ru">Rusija</option>
+<option value="kn">Saint Kitts in Nevis</option>
+<option value="pm">Saint Pierre in Miquelon</option>
+<option value="vc">Saint Vincent in Grenadine</option>
+<option value="sv">Salvador</option>
+<option value="ws">Samoa</option>
+<option value="sm">San Marino</option>
+<option value="st">Sao Tome in Principe</option>
+<option value="sa">Savdska Arabija</option>
+<option value="sc">Sejšeli</option>
+<option value="sn">Senegal</option>
+<option value="kp">Severna Koreja</option>
+<option value="mp">Severni Marianski otoki</option>
+<option value="sl">Sierra Leone</option>
+<option value="sg">Singapur</option>
+<option value="sy">Sirija</option>
+<option value="ci">Slonokoščena obala</option>
+<option value="sk">Slovaška</option>
+<option value="si">Slovenija</option>
+<option value="sb">Solomonovi otoki</option>
+<option value="so">Somalija</option>
+<option value="rs">Srbija</option>
+<option value="cf">Srednjeafriška republika</option>
+<option value="sd">Sudan</option>
+<option value="sr">Surinam</option>
+<option value="sj">Svalbard in Jan Mayen</option>
+<option value="sz">Svazi</option>
+<option value="sh">Sveta Helena</option>
+<option value="lc">Sveta Lucija</option>
+<option value="bl">Sveti Bartolomej</option>
+<option value="mf">Sveti Martin</option>
+<option value="tj">Tadžikistan</option>
+<option value="th">Tajska</option>
+<option value="tw">Tajvan</option>
+<option value="tz">Tanzanija</option>
+<option value="tl">Timor-Leste</option>
+<option value="tg">Togo</option>
+<option value="tk">Tokelau</option>
+<option value="to">Tonga</option>
+<option value="tt">Trinidad</option>
+<option value="tn">Tunizija</option>
+<option value="tm">Turkmenistan</option>
+<option value="tv">Tuvalu</option>
+<option value="tr">Tučija</option>
+<option value="ug">Uganda</option>
+<option value="ua">Ukrajina</option>
+<option value="uy">Urugvaj</option>
+<option value="uz">Uzbekistan</option>
+<option value="vu">Vanuatu</option>
+<option value="va">Vatikan</option>
+<option value="gb">Velika Britanija</option>
+<option value="ve">Venezuela</option>
+<option value="vn">Vietnam</option>
+<option value="wf">Wallis in Futuna</option>
+<option value="ae">ZAE</option>
+<option value="eh">Zahodna Sahara</option>
+<option value="zm">Zambija</option>
+<option value="us">Združene države Amerike</option>
+<option value="cv">Zelenortski otoki</option>
+<option value="zw">Zimbabve</option>
+<option value="ax">Ålandski otoki</option>
+<option value="td">Čad</option>
+<option value="cz">Češka</option>
+<option value="cl">Čile</option>
+<option value="me">Črna Gora</option>
+<option value="es">Španija</option>
+<option value="lk">Šri Lanka</option>
+<option value="se">Švedska</option>
+<option value="ch">Švica</option>
+</select>
+          </div>
+                          <div class="field field-language ">
+            <select required="required" name="lang" aria-required="true" id="id_lang">
+<option value="" selected="selected">Jeziki na razpolago</option>
+<option value="id">Bahasa Indonesia</option>
+<option value="de">Deutsch</option>
+<option value="en">English</option>
+<option value="es">Español</option>
+<option value="fr">Français</option>
+<option value="pl">Polski</option>
+<option value="pt">Português</option>
+<option value="hu">magyar</option>
+<option value="ru">Русский</option>
+</select>
+          </div>
+                <div class="field field-format">
+          <label for="id_fmt_0"><input checked="checked" type="radio" id="id_fmt_0" value="H" name="fmt" /> HTML</label><label for="id_fmt_1"><input type="radio" id="id_fmt_1" value="T" name="fmt" /> Besedilo</label>
+        </div>
+        <div class="field field-privacy ">
+          <label for="id_privacy" class="privacy-check-label"><input required="required" type="checkbox" name="privacy" id="id_privacy" /> <span class="title">Strinjam se, da Mozilla obdela te podatke, kot je razloženo v <a href="/en-US/privacy-policy">politiki zasebnosti</a></span></label>
+        </div>
+      </div>
+    </div>
+
+    <div class="form-submit">
+      <input type="submit" id="footer_email_submit"
+             value="Prijavi me »" class="button">
+
+      <p class="form-details">
+        <small>Pošiljali vam bomo samo informacije, ki se tičejo Mozille.</small>
+      </p>
+    </div>
+  </form>
+
+        </div>
+      </div> <!-- /#scene1 -->
+
+      <div class="scene" id="scene2">
+        <div class="thankyou" tabindex="0">
+          Hvala, ker prenašate Firefox!
+          Ker smo neprofitni, lahko svobodno delamo v vašo korist brez pritiskov in popuščanj. Zaljubili se boste v razliko.
+          <div class="share-wrapper">
+            <div class="socialshare" data-type="small-bubbles" data-label="Delite" data-fb-lang="sl_SI"></div>          </div>
+        </div>
+
+        <ol class="installation">
+          <li class="install1">
+            <span class="screen"></span>
+            <strong>1.</strong>
+            <span class="install-win">
+              Začnite postopek s klikom na Zaženi.
+            </span>
+            Vaš prenos bi se moral začeti samodejno. Če se ne, <a id="direct-download-link" href="">kliknite tukaj</a>. Traja lahko nekaj časa, a je vredno čakanja.
+          </li>
+          <li class="install2">
+            <span class="screen"></span>
+            <strong>2.</strong>
+            <span class="install-osx">
+              Ob opozorilu povlecite ikono Firefoxa v ikono mape Applications.
+            </span>
+            <span class="install-win">
+              Kliknite Zaženi za zagon namestitve Mozilla Firefoxa in nato samo sledite navodilom. Postopek smo poskušali narediti čimbolj enostaven.
+            </span>
+          </li>
+          <li class="install3">
+            <span class="screen"></span>
+            <strong>3.</strong>
+            <span class="install-osx">
+              Povlecite ikono Firefoxa iz mape Applications v odlagališče (dock). Potem samo kliknite ikono Firefoxa, ko boste želeli brskati po spletu!
+            </span>
+            <span class="install-win">
+              Zdaj ste pripravljeni na preskok v novo dobo brskanja po spletu. Dvokliknite ikono Firefoxa, vsakič ko boste želeli na splet.
+            </span>
+          </li>
+        </ol>
+      </div> <!-- /#scene2 -->
+
+    </div> <!-- /#stage -->
+  </div>
+</main>
+
+<div itemscope itemtype="http://schema.org/SoftwareApplication">
+  <meta itemprop="name" content="Firefox">
+  <meta itemprop="description" content="Mozilla Firefox, brezplačen spletni brskalnik, ustvarja globalna neprofitna organizacija, ki v ospredje postavlja posameznika in si prizadeva za razvoj spleta v korist vseh.">
+  <meta itemprop="url" content="http://www.mozilla.org/firefox/">
+  <meta itemprop="image" content="//mozorg.cdn.mozilla.net/media/img/firefox/firefox-256.jpg">
+  <div itemprop="author" itemscope itemtype="http://schema.org/Organization">
+    <meta itemprop="name" content="Mozilla">
+  </div>
+  <div itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+    <meta itemprop="price" content="0">
+  </div>
+  <meta itemprop="softwareVersion" content="27.0">
+  <meta itemprop="releaseNotes" content="http://www.mozilla.org/firefox/27.0/releasenotes/">
+  <meta itemprop="applicationCategory" content="BrowserApplication">
+  <meta itemprop="operatingSystem" content="Windows">
+  <meta itemprop="operatingSystem" content="Mac">
+  <meta itemprop="operatingSystem" content="Linux">
+  <meta itemprop="operatingSystem" content="Android">
+</div>
+
+<div itemscope itemtype="http://schema.org/Product">
+  <meta itemprop="name" content="Firefox">
+  <meta itemprop="description" content="Mozilla Firefox, brezplačen spletni brskalnik, ustvarja globalna neprofitna organizacija, ki v ospredje postavlja posameznika in si prizadeva za razvoj spleta v korist vseh.">
+  <meta itemprop="url" content="http://www.mozilla.org/firefox/">
+  <meta itemprop="image" content="//mozorg.cdn.mozilla.net/media/img/firefox/firefox-256.jpg">
+  <meta itemprop="logo" content="//mozorg.cdn.mozilla.net/media/img/firefox/firefox-256.jpg">
+  <div itemprop="manufacturer" itemscope itemtype="http://schema.org/Organization">
+    <meta itemprop="name" content="Mozilla">
+  </div>
+  <div itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+    <meta itemprop="price" content="0">
+  </div>
+</div>
+
+
+    
+    </div><!-- close #wrapper -->
+
+      <footer id="colophon">
+  <div class="row">
+    <ul class="primary">
+      <li><a href="/sl/firefox/central/"><span>Predstavitev</span></a></li>
+      <li><a href="/sl/firefox/features/"><span>Značilnosti</span></a></li>
+      <li><a href="/sl/mobile/"><span>Mobilniki</span></a></li>
+      <li><a href="https://addons.mozilla.org"><span>Dodatki</span></a></li>
+      <li><a href="https://support.mozilla.org/"><span>Podpora</span></a></li>
+      <li><a href="/sl/about/"><span>Predstavitev</span></a></li>
+    </ul>
+    <ul class="secondary footer-lang">
+      <li><form id="lang_form" dir="ltr" method="get" action="#">
+  <label for="language">Drugi jeziki:</label>
+  <select id="language" name="lang" dir="ltr">
+          <option value="af">Afrikaans</option>
+          <option value="ak">Akan</option>
+          <option value="an">aragonés</option>
+          <option value="ar">عربي</option>
+          <option value="ast">Asturianu</option>
+          <option value="bg">Български</option>
+          <option value="br">Brezhoneg</option>
+          <option value="ca">Català</option>
+          <option value="cs">Čeština</option>
+          <option value="csb">Kaszëbsczi</option>
+          <option value="cy">Cymraeg</option>
+          <option value="da">Dansk</option>
+          <option value="de">Deutsch</option>
+          <option value="el">Ελληνικά</option>
+          <option value="en-GB">English (British)</option>
+          <option value="en-US">English (US)</option>
+          <option value="eo">Esperanto</option>
+          <option value="es-AR">Español (de Argentina)</option>
+          <option value="es-CL">Español (de Chile)</option>
+          <option value="es-ES">Español (de España)</option>
+          <option value="es-MX">Español (de México)</option>
+          <option value="et">Eesti keel</option>
+          <option value="eu">Euskara</option>
+          <option value="fa">فارسی</option>
+          <option value="fi">suomi</option>
+          <option value="fr">Français</option>
+          <option value="fy-NL">Frysk</option>
+          <option value="ga-IE">Gaeilge</option>
+          <option value="gd">Gàidhlig</option>
+          <option value="gl">Galego</option>
+          <option value="he">עברית</option>
+          <option value="hi-IN">हिन्दी (भारत)</option>
+          <option value="hr">Hrvatski</option>
+          <option value="hu">magyar</option>
+          <option value="hy-AM">Հայերեն</option>
+          <option value="id">Bahasa Indonesia</option>
+          <option value="is">íslenska</option>
+          <option value="it">Italiano</option>
+          <option value="ka">ქართული</option>
+          <option value="kk">Қазақ</option>
+          <option value="km">ខ្មែរ</option>
+          <option value="ko">한국어</option>
+          <option value="ku">Kurdî</option>
+          <option value="lg">Luganda</option>
+          <option value="lij">Ligure</option>
+          <option value="lt">lietuvių kalba</option>
+          <option value="lv">Latviešu</option>
+          <option value="mk">Македонски</option>
+          <option value="ml">മലയാളം</option>
+          <option value="mr">मराठी</option>
+          <option value="ms">Melayu</option>
+          <option value="my">မြန်မာဘာသာ</option>
+          <option value="nb-NO">Norsk bokmål</option>
+          <option value="nl">Nederlands</option>
+          <option value="nso">Sepedi</option>
+          <option value="oc">occitan (lengadocian)</option>
+          <option value="pa-IN">ਪੰਜਾਬੀ</option>
+          <option value="pl">Polski</option>
+          <option value="pt-BR">Português (do Brasil)</option>
+          <option value="pt-PT">Português (Europeu)</option>
+          <option value="rm">rumantsch</option>
+          <option value="ro">română</option>
+          <option value="ru">Русский</option>
+          <option value="sk">slovenčina</option>
+          <option value="sl" selected>Slovenščina</option>
+          <option value="son">Soŋay</option>
+          <option value="sq">Shqip</option>
+          <option value="sr">Српски</option>
+          <option value="sv-SE">Svenska</option>
+          <option value="ta">தமிழ்</option>
+          <option value="te">తెలుగు</option>
+          <option value="th">ไทย</option>
+          <option value="tr">Türkçe</option>
+          <option value="uk">Українська</option>
+          <option value="ur">اُردو</option>
+          <option value="vi">Tiếng Việt</option>
+          <option value="xh">isiXhosa</option>
+          <option value="zh-CN">中文 (简体)</option>
+          <option value="zh-TW">正體中文 (繁體)</option>
+      </select>
+  <noscript>
+    <button type="submit">Go</button>
+  </noscript>
+</form>
+</li>
+    </ul>
+    <ul class="secondary">
+      <li><a href="/sl/privacy/">Politika zasebnosti</a></li>
+      <li><a href="/sl/about/legal.html">Pravna obvestila</a></li>
+    </ul>
+  </div>
+</footer>
+    </div><!-- close #outer-wrapper -->
+
+    <!--[if IE 9]>
+      <script src="//mozorg.cdn.mozilla.net/media/js/libs/matchMedia.js"></script>
+    <![endif]-->
+
+              <script src="//mozorg.cdn.mozilla.net/sl/tabzilla/tabzilla.js?build=066deae"></script>
+              </body>
+</html>
